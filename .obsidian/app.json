@@ -1,0 +1,10 @@
+{
+  "newLinkFormat": "relative",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "pages",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "assets",
+  "legacyEditor": false,
+  "showLineNumber": true,
+  "spellcheckLanguages": null
+}

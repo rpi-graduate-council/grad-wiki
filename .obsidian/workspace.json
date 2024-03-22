@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "26b1abb353d33226",
+    "type": "split",
+    "children": [
+      {
+        "id": "78be33c0c69d9797",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4be58421850ad8fe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1fa4c9dad13c6470",
+    "type": "split",
+    "children": [
+      {
+        "id": "959b55c413839fc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "149a900815a3edd5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c6f56157749ccc39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e9e1828c91cb738",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d4c22771ebe7de47",
+    "type": "split",
+    "children": [
+      {
+        "id": "e71160572a183f46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8b7f1bacb44a1a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "149a900815a3edd5",
+  "lastOpenFiles": []
+}
