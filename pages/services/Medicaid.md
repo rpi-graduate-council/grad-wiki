@@ -3,4 +3,4 @@
 
 ## To Enroll
 ### Option A: New York State Of Health
-Create an account and open an application on the [NY State Of Health website](https://nystateofhealth.ny.gov/). For assistance, call their hotline +1-855-355-5777.For assistance, call their h
+Create an account and open an application on the [NY State Of Health website](https://nystateofhealth.ny.gov/). For assistance, call their hotline +1-855-355-5777.
