@@ -1,7 +1,10 @@
+_Last Revision: April 9th, 2024_
+
+---
 ## *PLEASE READ FIRST*
 _What is a food pantry? From [Wikipedia](https://en.wikipedia.org/wiki/Food_bank), it is "a non-profit, charitable organization that distributes food to those who have difficulty purchasing enough to avoid hunger..."_
 
-_Last Revision: April 9th, 2024_
+---
 ## YWCA of the Greater Capital Region  
 21 First St.  
 Troy, NY - 12180  
