@@ -8,11 +8,10 @@ _Last Revision: April 21st, 2024_
 # To Enroll
 
 ## Step 1
-
-### Option A: NY State Of Health Website/Phone
+### > Option A: NY State Of Health Website/Phone
 Create an account and open an application on the [NY State Of Health website](https://nystateofhealth.ny.gov/). For assistance, call their hotline +1-855-355-5777.
 
-### Option B: Through a Medicaid Provider
+### > Option B: Through a Medicaid Provider
 _**Note**: There are several provider options. In this example, we use the Fidelis Care._
 - Send a message or call **Patti Marks-Conger** (Health Benefit Representative, Marketing) at (315) 383-7665, indicating your intention to start the application process.
 - She will request you to [email her](mailto:pmarks-conger@fideliscare.org) copies of your visa, passport, social security cards, and income information. If your spouse does not have a Social Security Number, it will not be a problem.
