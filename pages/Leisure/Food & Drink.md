@@ -1,4 +1,4 @@
-_Last Revision: May 7th, 2024_
+_Last Revision: October 4th, 2024_
 
 ---
 # Cafés in Troy Area
@@ -28,3 +28,8 @@ _Last Revision: May 7th, 2024_
 - [Unagi Sushi –](https://unagitroyny.com/) delicious sushi in downtown Troy
 - [Bespoki Bowl](https://bespokibowl.com/) – tasty poké bowl place in downtown Troy
 - [Wasabi](https://www.wasabialbanyny.com/) – all-you-can-eat-sushi place in Albany! Fun to go to with friends; can also order without doing all-you-can-eat. If it’s your birthday, you eat for free!
+- [River St. Poke Bar](https://riverstpokebar.com/) - another great option for poke in downtown Troy!
+
+## Dessert
+- [Dutch Udder](https://www.dutchudder518.com/) - a great ice cream place in downtown Troy on the corner of River Street  and Franklin Street. They change the flavor selection a few times a year so that there is always something new to try!
+- [The Cookie Factory](https://thecookiefactoryny.com/) - a small chain with stores located in Troy and Clifton Park. There's a large assortment of cookies to satisfy any type of craving!
