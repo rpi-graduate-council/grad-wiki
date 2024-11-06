@@ -1,4 +1,4 @@
-_Last Revision: October 20, 2024 _
+_Last Revision: November 6, 2024 _
 
 If you want to explore Downtown Troy, here is a small list of places you can go in your free time!
 
