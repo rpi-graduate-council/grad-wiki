@@ -80,3 +80,7 @@ Phone: 518-274-2607
 _Open Monday to Friday from 8:30 AM - 4:30 PM. Pantry closed for lunch 12pm - 1pm each day Documentation Require. The Food Pantry provides three-day supplies of food, diapers, formula and baby food to parents in need. Annually the Pantry provides a holiday meals program, providing groceries for complete Thanksgiving and Christmas dinners for families. Please call about picking up groceries from the pantry._
 
 **Additional Note:** You cant choose the food by yourself, but you get a good amount of food.
+
+
+---
+_What do you have to share? Use [this link](https://forms.office.com/r/vc4mzPFJLv) to submit new content/edits/comments, or email [grad-council+grad-wiki@rpi.edu](mailto:grad-council+grad-wiki@rpi.edu)._

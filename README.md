@@ -1,7 +1,7 @@
 # "How to Not Screw up Grad School" - an (unofficial) RPI Grad Wiki
 
 ## DISCLAIMER
-This is a community-sourced project, by RPI Grads for RPI Grads, aimed to maintain and share knowledge on how to navigate the world-renowned Rensselaer Polytechnic Institute, Troy, and beyond. Each of us knows something others do not - if you want to either contribute knowledge, or help  manage & maintain the project, email [grad-council+grad-wiki@rpi.edu](mailto:grad-council+grad-wiki@rpi.edu).
+This is a community-sourced project, by RPI Grads for RPI Grads, aimed to maintain and share knowledge on how to navigate the world-renowned Rensselaer Polytechnic Institute, Troy, and beyond. Each of us knows something others do not - if you want to either contribute knowledge, or help manage & maintain the project, email [grad-council+grad-wiki@rpi.edu](mailto:grad-council+grad-wiki@rpi.edu).
 
 We do our best to fact-check all entries, but to err is human. Thus, _all information provided and advice given in this Wiki comes without any warranty, whatsoever_. Please double-check before taking action.
 
@@ -15,3 +15,6 @@ This Wiki is written in [MarkDown](https://en.wikipedia.org/wiki/markdown), the 
 - _pages_: Contains the actual Wiki.
 - _assets_: All supplementary materials (pdfs, images, etc.), which can be linked by other notes/folders in _pages_.
 - _obsidian_, _logseq_: Configurations, needed by note-taking applications.
+
+## Contribute
+What do you have to share? Either use the QR Code below/ [this link](https://forms.office.com/r/vc4mzPFJLv) to submit new content/edits/comments, or email [grad-council+grad-wiki@rpi.edu](mailto:grad-council+grad-wiki@rpi.edu).

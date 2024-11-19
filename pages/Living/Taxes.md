@@ -26,3 +26,5 @@ As a graduate student you qualify for free assistance with tax returns through t
 IRS's [Volunteer Income Tax Assistance (VITA) program](https://www.irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers). Here's how to check if you [qualify](https://www.unitedwaygcr.org/cash/free-tax-prep) for the program.
 
 
+---
+_What do you have to share? Use [this link](https://forms.office.com/r/vc4mzPFJLv) to submit new content/edits/comments, or email [grad-council+grad-wiki@rpi.edu](mailto:grad-council+grad-wiki@rpi.edu)._

@@ -14,3 +14,6 @@ The closest store to campus: 720 Hoosick Rd, Troy, NY 12180
 ## Garage Sales
 Craigslist has a [map](https://albany.craigslist.org/search/gms#search=1~map~0~0~43.1295~-74.9310~42.4820~-72.8784) of the current garage sales in the area.
 
+
+---
+_What do you have to share? Use [this link](https://forms.office.com/r/vc4mzPFJLv) to submit new content/edits/comments, or email [grad-council+grad-wiki@rpi.edu](mailto:grad-council+grad-wiki@rpi.edu)._

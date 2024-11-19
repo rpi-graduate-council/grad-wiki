@@ -14,3 +14,7 @@ The CDTA can be used with your RPI ID _FREE_ of charge, just swipe when you ente
 ## Train
 ### Amtrak
 If you'd like to travel by train to NYC then you can use the [Albany-Rensselaer Amtrak station](https://www.amtrak.com/stations/alb).
+
+
+---
+_What do you have to share? Use [this link](https://forms.office.com/r/vc4mzPFJLv) to submit new content/edits/comments, or email [grad-council+grad-wiki@rpi.edu](mailto:grad-council+grad-wiki@rpi.edu)._

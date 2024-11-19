@@ -32,3 +32,7 @@ ATTENTION: You should annually renew your plan. Thus, schedule an appointment wi
 	- If you don't receive this email or if you have any questions, call (866) 535-0456, or [email Collegiate Department - Haylor, Freyer & Coon, Inc](mailto:student@haylor.com).
 - Finally, visit [SIS Website](http://sis.rpi.edu)
 	- Select Student Account Detail > Account Summary by Semester, and double check your account balance for the upcoming semester. You should have the “Health Insurance Waiver” in the “Payment” section.
+
+
+---
+_What do you have to share? Use [this link](https://forms.office.com/r/vc4mzPFJLv) to submit new content/edits/comments, or email [grad-council+grad-wiki@rpi.edu](mailto:grad-council+grad-wiki@rpi.edu)._

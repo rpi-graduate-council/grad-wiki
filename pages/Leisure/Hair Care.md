@@ -10,3 +10,7 @@ _Last Revision: October 20, 2024_
 # Barbers
 * [Troy Grooming Company](https://www.yelp.com/biz/troy-grooming-troy-3) - Located at 205 River Street
 * [Fratelli Barber Shop](https://www.instagram.com/fratelli.barbershop/?utm_medium=copy_link) - Located at 172 River Street
+
+
+---
+_What do you have to share? Use [this link](https://forms.office.com/r/vc4mzPFJLv) to submit new content/edits/comments, or email [grad-council+grad-wiki@rpi.edu](mailto:grad-council+grad-wiki@rpi.edu)._

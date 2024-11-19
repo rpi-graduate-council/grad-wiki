@@ -41,3 +41,5 @@ A part of the Health Center is the [Counseling Center](https://studenthealth.rpi
 The student community provides community and support for students with families. To start, you can check out [RPI Resources for students with families](https://graduate.rpi.edu/information-students) offered by the OGE. 
 
 
+---
+_What do you have to share? Use [this link](https://forms.office.com/r/vc4mzPFJLv) to submit new content/edits/comments, or email [grad-council+grad-wiki@rpi.edu](mailto:grad-council+grad-wiki@rpi.edu)._
