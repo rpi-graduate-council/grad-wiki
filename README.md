@@ -17,4 +17,4 @@ This Wiki is written in [MarkDown](https://en.wikipedia.org/wiki/markdown), the 
 - _obsidian_, _logseq_: Configurations, needed by note-taking applications.
 
 ## Contribute
-What do you have to share? Either use the QR Code below/ [this link](https://forms.office.com/r/vc4mzPFJLv) to submit new content/edits/comments, or email [grad-council+grad-wiki@rpi.edu](mailto:grad-council+grad-wiki@rpi.edu).
+What do you have to share? Use [this link](https://forms.office.com/r/vc4mzPFJLv) to submit new content/edits/comments via a form, or email[grad-council+grad-wiki@rpi.edu](mailto:grad-council+grad-wiki@rpi.edu).
