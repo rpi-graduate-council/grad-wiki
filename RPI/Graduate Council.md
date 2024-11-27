@@ -1,4 +1,5 @@
-RPI students have [their own Government](https://sites.google.com/view/rpistugov/home), and with that formal representation. The [RPI Graduate Council](https://sites.google.com/view/rpistugov/graduate-council) (GC) is its graduate branch, and consists of 15 graduate students elected by the entire RPI graduate student body. The Council's purpose is to represent graduate students in university affairs and advocate for their needs.
+RPI students have [their own Government](https://sites.google.com/view/rpistugov/home), and with that formal representation. The [RPI Graduate Council](https://sites.google.com/view/rpistugov/graduate-council) (GC) is its graduate branch, and consists of 15 graduate students elected by the entire RPI graduate student body. The Council's purpose is to represent graduate students in university affairs and advocate for their needs, see e.g. its ['23-'24 Term Report](https://rpi.box.com/v/GC-Term-Report-2023-24).
+
 
 ## Communication Channels with the Institute
 
@@ -27,18 +28,23 @@ RPI students have [their own Government](https://sites.google.com/view/rpistugov
 - **All-Grads Open Conversation**
 	- _Participants_: entire graduate community, President, Provost, Dean of Grad Education
 	- _Frequency, Duration_: 2x a year, 2 hours
-	- _Comments_: Initiated by Graduate Council in December 2023, this is an open forum for all graduate students to take part. The format, topics is chosen by the graduate students.
+	- _Comments_: [Initiated by Grad Council in December 2023](https://rpi.box.com/v/GC-Term-Report-2023-24), this is an open forum for all graduate students to take part. The format, topics is chosen by the graduate students.
+- **School Graduate Boards**
+	- _General Info_: [Initiated by Grad Council in early 2024](https://rpi.box.com/v/GC-Term-Report-2023-24), these are intended to be an informal, direct line of communication between the School's Deans and graduate students, to help the Deans better inform their actions and better understand the needs of their School's students.
+	- HASS
+		- _Participants_: [Dean of HASS]((https://news.rpi.edu/2024/07/29/william-gibbons-leading-music-scholar-joins-rpi-dean-humanities-arts-and-social-sciences), representatives of all grad organizations in HASS, and the Grad Council 
+		- _Frequency, Duration_: 45min, monthly
+		- _Comments_: Inaugural meeting on 10/18/2024
 
 
-
-
-**Graduate Council's Resources**
+---
+## Further Resources
 - [Website](https://sites.google.com/view/rpistugov/graduate-council)
 - [Email](mailto:grad-council@rpi.edu)
 - [Linktree](https://linktr.ee/rpi.graduate.council)
 - [Instagram](https://www.instagram.com/rpi.graduate.council/)
 - [LinkedIn](https://www.linkedin.com/company/rpi-graduate-council/)
-- ['23-'24 Term Report](https://rpi.box.com/v/GC-Term-Report-2023-24)
+-  ['23-'24 Term Report](https://rpi.box.com/v/GC-Term-Report-2023-24)
 
 
 ---
