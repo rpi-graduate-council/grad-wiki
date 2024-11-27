@@ -1,7 +1,7 @@
 # "How to Not Screw up Grad School" - an (unofficial) RPI Grad Wiki
 
 ## DISCLAIMER
-This is an [RPI Graduate Council](https://sites.google.com/view/rpistugov/graduate-council) community-sourced project, by Grads for Grads, aimed to share history and insights on how to navigate the world-renowned Rensselaer Polytechnic Institute, Troy, and beyond.
+This is an [RPI Graduate Council](RPI/Graduate%20Council.md) community-sourced project, by Grads for Grads, aimed to share the history and insights on how to navigate the world-renowned Rensselaer Polytechnic Institute, Troy, and beyond.
 
 We do our best to fact-check all entries, but to err is human. Thus, _all information provided and advice given in this Wiki comes without any warranty, whatsoever_. Please double-check before taking action.
 
@@ -16,8 +16,8 @@ Generally, all experience we accumulate during our stay at RPI leaves with us wh
 ### Front-End
 Publicly-facing Wiki is hosted on this [Webpage](https://publish.obsidian.md/rpi-grad-wiki)
 ### Back-End
-The actual Wiki database containing meta-data and all history lives in this [GitHub Repository](https://github.com/rpi-graduate-council/grad-wiki/). You can download it as a zip file, if you prefer to have it on your machine. Written in [MarkDown](https://en.wikipedia.org/wiki/markdown), the _.md_ files can be opened with any plain text editor. For complete functionality, use the [Obsidian](https://obsidian.md/) note-taking application. In its folder structure, the folder
-- _\_assets_ contains all supplementary materials (pdfs, images, etc.), linked by the Wiki's notes/folders;
+The actual Wiki database containing meta-data and all of history lives in this [GitHub Repository](https://github.com/rpi-graduate-council/grad-wiki/). You can download it as a zip file, if you prefer to have it on your machine. Written in [MarkDown](https://en.wikipedia.org/wiki/markdown), the _.md_ files can be opened with any plain text editor. For complete functionality, use the [Obsidian](https://obsidian.md/) note-taking application. In its folder structure, the folder
+- _\_assets_ contains all supplementary materials (pdfs, images, etc.), embedded in the Wiki's pages;
 - _.obsidian_ contains Obsidian-related configuration files.
 
 ---
@@ -38,5 +38,5 @@ The actual Wiki database containing meta-data and all history lives in this [Git
 | --------------------------- | ----------------- |
 | Alexander "Sasha" Lutsevich | Diyanko Bhowmik   |
 | Sombuddha Chatterjee        | Rochelle Kaper    |
-| Jade Franklin               | Tiburon Benavides |
-| Mincong "Jerry" Huang       |                   |
+| Milena Jonas                | Tiburon Benavides |
+| Mincong "Jerry" Huang       | Jade Franklin     |
