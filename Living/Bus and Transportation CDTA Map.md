@@ -2,9 +2,12 @@
 ### RPI Shuttle
 RPI offers a [free shuttle](https://info.rpi.edu/rensselaer-shuttle) to its students to provide safe transportation around the campus. Note: Student ID will be required to board the shuttle
 ### CDTA - Capital District Transportation Authority
-The [Capital District Transportation Authority (CDTA)](https://www.cdta.org/schedules-route-detail?route_id=87) provides a regular route bus service, shuttle systems and paratransit services. CDTA subsidiaries own and operate the Rensselaer Rail and Saratoga Springs Train Stations. CDTA also operates the Northway (NX) Xpress Commuter Service between Saratoga County and downtown Albany (add link). 
+The [Capital District Transportation Authority (CDTA)](https://www.cdta.org/routes) provides a regular route bus service, shuttle systems and paratransit services. CDTA subsidiaries own and operate the Rensselaer Rail and Saratoga Springs Train Stations. CDTA also operates the Northway (NX) Xpress Commuter Service between Saratoga County and downtown Albany (add link).
 
-The CDTA can be used with your RPI ID _FREE_ of charge, just swipe when you enter the bus.
+The CDTA can be used with your RPI ID [_FREE_ of charge](https://info.rpi.edu/parking-and-transportation/cdta-bus-service/), just swipe when you enter the bus.
+
+#### Map
+<iframe src="https://www.cdta.org/service-map/" width="640" height="480"></iframe>
 
 ## Bike
 

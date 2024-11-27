@@ -1,8 +1,9 @@
-RPI students have [their own Government](https://sites.google.com/view/rpistugov/home), and with that formal representation. The [RPI Graduate Council](https://sites.google.com/view/rpistugov/graduate-council) (GC) is its graduate branch, and consists of 15 graduate students elected by the entire RPI graduate student body. The Council's purpose is to represent graduate students in university affairs and advocate for their needs.
+RPI students have [their own Student Government](https://sites.google.com/view/rpistugov/home), and with that formal representation. The **RPI Graduate Council** (GC) is its graduate branch, and consists of 15 graduate students elected by the entire RPI graduate student body. The Council's purpose is to represent graduate students in university affairs and advocate for their needs.
+See the [Council's Website](https://sites.google.com/view/rpistugov/graduate-council) for news and upcoming events.
 
 ## Communication Channels with the Institute
 
-### GC Only
+### GC
 - [**President & Provost**](Important%20Offices.md##Important%20People%20on%20Campus)
 	- _Participants_: GC President
 	- _Frequency, Duration_: monthly, 30 minutes
@@ -41,7 +42,7 @@ RPI students have [their own Government](https://sites.google.com/view/rpistugov
 
 
 ---
-## Further Resources
+## Web Links
 - [Website](https://sites.google.com/view/rpistugov/graduate-council)
 - [Email](mailto:grad-council@rpi.edu)
 - [Linktree](https://linktr.ee/rpi.graduate.council)
