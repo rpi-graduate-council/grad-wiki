@@ -2,21 +2,28 @@ RPI students have [their own Government](https://sites.google.com/view/rpistugov
 
 ## Communication Channels with the Institute
 
+### GC Only
 - [**President & Provost**](Important%20Offices.md##Important%20People%20on%20Campus)
 	- _Participants_: GC President
 	- _Frequency, Duration_: monthly, 30 minutes
 	- _Comments_: These were scheduled on-demand
 - **[Dean of Graduate Education](Important%20Offices.md##Important%20People%20on%20Campus)**
-	- _Participants_: Graduate Council President and Vice President
+	- _Participants_ Graduate Council President and Vice President, BGSA President
 	- _Frequency, Duration_: monthly, 1 hour
 	- _Comments_: on agenda usually imminent action items regarding graduate community
 - **[Dean of Graduate Experience](Important%20Offices.md##Important%20People%20on%20Campus)**
 	- _Participants_: GC President and Vice President
 	- _Frequency, Duration_: bi-weekly, 1 hour
+
+### Broader Audience
 - **[President, Provost, and Vice Presidents](Important%20Offices.md##Important%20People%20on%20Campus)**, Grad Leaders
 	- _Participants_: representatives of all graduate organizations across campus
 	- _Frequency, Duration_: monthly, 1 hour
 	- _Comments_: Initiated by President Marty Schmidt in March 2023, these meetings are a space for to discuss any topics grads want to address, such as stipends, advising relationships, and teaching opportunities.
+- [Board of Trustees](Important%20Offices.md##Important%20People%20on%20Campus), Student Life Committee
+	- _Participants_: GC President (status: "permanent guest")
+	- _Frequency, Duration_: twice per year, 2 hours
+	- _Comments_: The Graduate Council is allocated a 5-10min period to present updates on the graduate community
 - **All-Grads Open Conversation**
 	- _Participants_: entire graduate community, President, Provost, Dean of Grad Education
 	- _Frequency, Duration_: 2x a year, 2 hours
