@@ -27,9 +27,9 @@ A list of things they can help with:
 - For more, feel free to [contact the ISSS](https://info.rpi.edu/isss/isss-news/#ServicesAdvising) or visit their office.
 ## Health & Counseling Center
 
-Medical care can be a tricky business when you're dealing with a transition to Graduate life. For many of your health concerns, you can visit the [Health Center](https://studenthealth.rpi.edu/) if you need **a check-up, a prescription, or if you are struggling with some health problems**. 
+Medical care can be a tricky business when you're dealing with a transition to Graduate life. For many of your health concerns, you can visit the [Health Center](https://studenthealth.rpi.edu/) if you need **a check-up, a prescription, or if you are struggling with some health problems**.
 
->Part of the Health Center is the [**Student Health Portal**](https://rpi.studenthealthportal.com/) where you can schedule your appointments online with no additional hassle. 
+>Part of the Health Center is the [Student Health Portal](https://rpi.studenthealthportal.com/) where you can schedule your appointments online with no additional hassle. 
 
 The good news is that since you are paying a health center fee, all your visits will be free of charge, so do not hesitate to use the facility outside of your insurance. The office is located in Academy Hall.
 
@@ -42,4 +42,4 @@ The student community provides community and support for students with families.
 
 
 ---
-_What do you have to share? Use [this link](https://forms.office.com/r/vc4mzPFJLv) to submit new content/edits/comments, or email [grad-council+grad-wiki@rpi.edu](mailto:grad-council+grad-wiki@rpi.edu)._
+_Have knowledge/edits to share? See the [CONTRIBUTE](../../CONTRIBUTE.md) page._

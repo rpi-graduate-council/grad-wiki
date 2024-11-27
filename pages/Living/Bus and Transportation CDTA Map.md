@@ -17,4 +17,4 @@ If you'd like to travel by train to NYC then you can use the [Albany-Rensselaer 
 
 
 ---
-_What do you have to share? Use [this link](https://forms.office.com/r/vc4mzPFJLv) to submit new content/edits/comments, or email [grad-council+grad-wiki@rpi.edu](mailto:grad-council+grad-wiki@rpi.edu)._
+_Have knowledge/edits to share? See the [CONTRIBUTE](../../CONTRIBUTE.md) page._

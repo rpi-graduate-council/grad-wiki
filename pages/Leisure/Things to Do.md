@@ -27,9 +27,9 @@ While in Downtown Troy, you may find these places that are more on the expensive
 
 ### Waterfront
 * [Grafton Lakes State Park](https://parks.ny.gov/parks/graftonlakes) - off of Route 2 about 24 minutes away, there is a ton of outdoor activities to do!
-
 ### Winter Sports
 * If you are itching to ski or snowboard, [this website](https://www.epicpass.com/passes/northeast-value-pass.aspx) will take you to a season pass at a discounted price for college students with access to the nearby slopes!
 
+
 ---
-_What do you have to share? Use [this link](https://forms.office.com/r/vc4mzPFJLv) to submit new content/edits/comments, or email [grad-council+grad-wiki@rpi.edu](mailto:grad-council+grad-wiki@rpi.edu)._
+_Have knowledge/edits to share? See the [CONTRIBUTE](../../CONTRIBUTE.md) page._

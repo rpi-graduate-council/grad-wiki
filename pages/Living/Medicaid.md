@@ -35,4 +35,4 @@ ATTENTION: You should annually renew your plan. Thus, schedule an appointment wi
 
 
 ---
-_What do you have to share? Use [this link](https://forms.office.com/r/vc4mzPFJLv) to submit new content/edits/comments, or email [grad-council+grad-wiki@rpi.edu](mailto:grad-council+grad-wiki@rpi.edu)._
+_Have knowledge/edits to share? See the [CONTRIBUTE](../../CONTRIBUTE.md) page._

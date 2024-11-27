@@ -35,5 +35,6 @@ _Last Revision: November 26th, 2024_
 - [Dutch Udder](https://www.dutchudder518.com/) - a great ice cream place in downtown Troy on the corner of River Street  and Franklin Street. They change the flavor selection a few times a year so that there is always something new to try!
 - [The Cookie Factory](https://thecookiefactoryny.com/) - a small chain with stores located in Troy and Clifton Park. There's a large assortment of cookies to satisfy any type of craving!
 
+
 ---
-_What do you have to share? Use [this link](https://forms.office.com/r/vc4mzPFJLv) to submit new content/edits/comments, or email [grad-council+grad-wiki@rpi.edu](mailto:grad-council+grad-wiki@rpi.edu)._
+_Have knowledge/edits to share? See the [CONTRIBUTE](../../CONTRIBUTE.md) page._
