@@ -32,7 +32,7 @@ RPI students have [their own Government](https://sites.google.com/view/rpistugov
 - **School Graduate Boards**
 	- _General Info_: [Initiated by Grad Council in early 2024](https://rpi.box.com/v/GC-Term-Report-2023-24), these are intended to be an informal, direct line of communication between the School's Deans and graduate students, to help the Deans better inform their actions and better understand the needs of their School's students.
 	- HASS
-		- _Participants_: [Dean of HASS]((https://news.rpi.edu/2024/07/29/william-gibbons-leading-music-scholar-joins-rpi-dean-humanities-arts-and-social-sciences), representatives of all grad organizations in HASS, and the Grad Council 
+		- _Participants_: [Dean of HASS](https://news.rpi.edu/2024/07/29/william-gibbons-leading-music-scholar-joins-rpi-dean-humanities-arts-and-social-sciences), representatives of all grad organizations in HASS, and the Grad Council
 		- _Frequency, Duration_: 45min, monthly
 		- _Comments_: Inaugural meeting on 10/18/2024
 
