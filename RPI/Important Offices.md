@@ -2,16 +2,16 @@ Here's a roadmap of some RPI offices that can help with stuff.
 
 ## Important People on Campus
 
-| Position                                                                                               | Name              | What do they do?                                                                                              | How is the  |
-| ------------------------------------------------------------------------------------------------------ | ----------------- | ------------------------------------------------------------------------------------------------------------- | ----------- |
-| [President](https://president.rpi.edu/)                                                                | Martin A. Schmidt | Captain of the RPI ship.                                                                                      |             |
-| [Provost](https://provost.rpi.edu/)                                                                    | Rebecca W. Doerge | According to the President, "the most powerful person on campus."                                             |             |
-| [RPI Higher Admin](https://president.rpi.edu/leadership)                                               | Various Artists   | See [this page](https://president.rpi.edu/leadership) for an overview.                                        |             |
-| [Board of Trustees](https://president.rpi.edu/leadership)                                              | Various Artists   | The big guns. Oversee RPI's financial, academic, strategic operations, can e.g. hire & fire the President.    |             |
-| [Dean of Graduate Education (OGE)](https://graduate.rpi.edu/about)                                     | Dorit Nevo        | Oversees and supports all graduate students, has executive powers to e.g. develop graduate academic policies. |             |
-| [OGE Sr. Program Admin](https://graduate.rpi.edu/about)                                                | Elizabeth Madigan | Assists grads in applying for scholarships/fellowships.                                                       |             |
-| [Ombuds](https://graduate.rpi.edu/about/ombuds)                                                        | Bill Siegmann     | Provides confidential and informal assistance to students.                                                    |             |
-| [Dean of Graduate Experience](https://graduate.rpi.edu/graduate-experience/student-life-and-community) | Colleen Smith     | Swiss army knife of graduate advocacy, students often seek her during crises.                                 |             |
+| Position                                                                                               | Name              | What do they do?                                                                                              |
+| ------------------------------------------------------------------------------------------------------ | ----------------- | ------------------------------------------------------------------------------------------------------------- |
+| [President](https://president.rpi.edu/)                                                                | Martin A. Schmidt | Captain of the RPI ship.                                                                                      |
+| [Provost](https://provost.rpi.edu/)                                                                    | Rebecca W. Doerge | According to the President, "the most powerful person on campus."                                             |
+| [RPI Higher Admin](https://president.rpi.edu/leadership)                                               | Various Artists   | See [this page](https://president.rpi.edu/leadership) for an overview.                                        |
+| [Board of Trustees](https://president.rpi.edu/leadership)                                              | Various Artists   | The big guns. Oversee RPI's financial, academic, strategic operations, can e.g. hire & fire the President.    |
+| [Dean of Graduate Education (OGE)](https://graduate.rpi.edu/about)                                     | Dorit Nevo        | Oversees and supports all graduate students, has executive powers to e.g. develop graduate academic policies. |
+| [OGE Sr. Program Admin](https://graduate.rpi.edu/about)                                                | Elizabeth Madigan | Assists grads in applying for scholarships/fellowships.                                                       |
+| [Ombuds](https://graduate.rpi.edu/about/ombuds)                                                        | Bill Siegmann     | Provides confidential and informal assistance to students.                                                    |
+| [Dean of Graduate Experience](https://graduate.rpi.edu/graduate-experience/student-life-and-community) | Colleen Smith     | Swiss army knife of graduate advocacy, students often seek her during crises.                                 |
 
 
 
