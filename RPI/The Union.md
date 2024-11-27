@@ -2,6 +2,7 @@
 The center of student life is [The Rensselaer Union](https://union.rpi.edu/) residing within the Rensselaer Student Union building (conveniently located [at the corner of Sage Avenue and 15th street](https://www.google.com/maps/place/Rensselaer+Union/@42.7299076,-73.679241,17z/data=!3m1!4b1!4m6!3m5!1s0x89de0f9ff3c17227:0xd5d808a8e2c02a72!8m2!3d42.7299076!4d-73.6766661!16s%2Fg%2F11r922zdp?entry=ttu&g_ep=EgoyMDI0MDkyNS4wIKXMDSoASAFQAw%3D%3D). For all kinds of updates and information, see their [Instagram page](https://www.instagram.com/rpiunion/).
 
 > The Union building provides a variety of **student services, food options**, as well **study rooms and gaming spaces** for both socializing and quiet work.
+
 ## Dining & Businesses
 
 For the dining options & businesses in the **Union Building**, see:

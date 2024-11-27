@@ -12,7 +12,8 @@ Here's a roadmap of some RPI offices that can help with stuff.
 | [OGE Sr. Program Admin](https://graduate.rpi.edu/about)                                                | Elizabeth Madigan | Assists grads in applying for scholarships/fellowships.                                                       |
 | [Ombuds](https://graduate.rpi.edu/about/ombuds)                                                        | Bill Siegmann     | Provides confidential and informal assistance to students.                                                    |
 | [Dean of Graduate Experience](https://graduate.rpi.edu/graduate-experience/student-life-and-community) | Colleen Smith     | Swiss army knife of graduate advocacy, students often seek her during crises.                                 |
-
+|                                                                                                        |                   |                                                                                                               |
+ The [Graduate Council](Graduate%20Council.md) has the following [communication channels](Graduate%20Council.md##Communication%20channels%20with%20the%20Administration) with them.
 
 
 ## Office of Graduate Education
