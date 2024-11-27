@@ -37,6 +37,8 @@ The actual Wiki database containing meta-data and all of history lives in this [
 | Name                        | Name              |
 | --------------------------- | ----------------- |
 | Alexander "Sasha" Lutsevich | Diyanko Bhowmik   |
-| Sombuddha Chatterjee        | Rochelle Kaper    |
-| Milena Jonas                | Tiburon Benavides |
-| Mincong "Jerry" Huang       | Jade Franklin     |
+| Klara Lutsevich             | Rochelle Kaper    |
+| Sombuddha Chatterjee        | Tiburon Benavides |
+| Milena Jonas                | Jade Franklin     |
+| Jitka Kadlecikova           | Gwendolyn Morgan  |
+| Mincong "Jerry" Huang       | Reno Malanga      |
