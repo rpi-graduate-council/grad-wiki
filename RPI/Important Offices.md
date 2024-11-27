@@ -54,10 +54,5 @@ A part of the Health Center is the [Counseling Center](https://studenthealth.rpi
 >The Counseling Center also organizes different wellness and awareness programs, including drop-in counseling hours. 
 
 
-## Students with Families
-
-The student community has created a circle of support for students with families, email [swf@rpi.edu](mailto:swf@rpi.edu) to get in touch. Also, check out [RPI Resources for students with families](https://graduate.rpi.edu/information-students) offered by the OGE.
-
-
 ---
 _Have knowledge/edits to share? See the [CONTRIBUTE](../../CONTRIBUTE.md) page._
