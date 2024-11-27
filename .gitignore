@@ -1,5 +1,6 @@
 .trash/
 .DS_Store
+.obsidian/publish.json
 .obsidian/workspace
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
