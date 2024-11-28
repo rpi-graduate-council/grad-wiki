@@ -35,7 +35,7 @@ For other leisure options, check out e.g. the [RPI Playhouse](https://playhouse.
 
 The Union is home to the [Student Government](https://sites.google.com/view/rpistugov/), a well-established and thriving community that **represents the student body** on a variety of issues. 
 
-Especially the [Graduate Council](Graduate%20Council/Graduate%20Council.md) should be of interest to all Grad students, since they take care of the Graduate needs which are very specific. They open new positions throughout the year if you want to be an active voting member and support and help your community.
+Especially the [GC Overview](Graduate%20Council/GC%20Overview.md) should be of interest to all Grad students, since they take care of the Graduate needs which are very specific. They open new positions throughout the year if you want to be an active voting member and support and help your community.
 
 
 ---
