@@ -20,8 +20,8 @@ _Last Revision: November 27, 2024_
 - [Grad Relief Fund](https://graduate.rpi.edu/funding-and-fellowships/internal-funding/graduate-student-relief-fund)provides a one-time payment for students in acute financial crisis. Application required. 
 
 ## More...
- See the [OGE Website](https://graduate.rpi.edu/information-students) for a collection of additional discounts and services.
-
+ - See the [OGE Website](https://graduate.rpi.edu/information-students) for a collection of additional discounts and services.
+-  [Downtown Troy Discounts](https://www.downtowntroyny.org/for-students)
 
 ---
 _Have knowledge/edits to share? See the [CONTRIBUTE](../../CONTRIBUTE.md) page._
