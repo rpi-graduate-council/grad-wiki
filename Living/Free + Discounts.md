@@ -4,9 +4,9 @@ _Last Revision: November 27, 2024_
 ---
 
 ## Transportation
-- ![Bus and Transportation CDTA Map](../Living/Bus%20and%20Transportation%20CDTA%20Map.md##RPI%20Shuttle)
-- ![Bus and Transportation CDTA Map](../Living/Bus%20and%20Transportation%20CDTA%20Map.md###CDTA%20-%20Busses)
-- ![Bus and Transportation CDTA Map](../Living/Bus%20and%20Transportation%20CDTA%20Map.md###CDPHP%20_Cycle!_)
+- ![Transportation](Transportation.md##RPI%20Shuttle)
+- ![Transportation](Transportation.md###CDTA%20-%20Busses)
+- ![Transportation](Transportation.md###CDPHP%20_Cycle!_)
 
 ## Academic 
 - [Interlibrary Loans](https://library.rpi.edu/use-libraries/interlibrary-loan)can get you hard-to-find journals/articles, which RPI might not have subscribed to. In the event of this happening, you can go to on the library website and request your specific article of interest!
