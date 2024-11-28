@@ -33,9 +33,9 @@ See the [Council's Website](https://sites.google.com/view/rpistugov/graduate-cou
 - **All-Grads Open Conversation**
 	- _Participants_: entire graduate community, President, Provost, Dean of Grad Education
 	- _Frequency, Duration_: 2x a year, 2 hours
-	- _Comments_: [Initiated by Grad Council in December 2023](../_assets/Graduate%20Council%20-%20A/Graduate%20Council%202023-24%20Term%20Report%20-%20Compressed_27.5.pdf#page=17), this is an open forum for all graduate students to take part. The format, topics is chosen by the graduate students.
+	- _Comments_: [Initiated by Grad Council in December 2023](../../_assets/Graduate%20Council%20-%20A/Graduate%20Council%202023-24%20Term%20Report%20-%20Compressed_27.5.pdf#page=17), this is an open forum for all graduate students to take part. The format, topics is chosen by the graduate students.
 - **School Graduate Boards**
-	- _General Info_: [Initiated by Grad Council in early 2024](../_assets/Graduate%20Council%20-%20A/Graduate%20Council%202023-24%20Term%20Report%20-%20Compressed_27.5.pdf#page=13), these are intended to be an informal, direct line of communication between the School's Deans and graduate students, to help the Deans better inform their actions and better understand the needs of their School's students.
+	- _General Info_: [Initiated by Grad Council in early 2024](../../_assets/Graduate%20Council%20-%20A/Graduate%20Council%202023-24%20Term%20Report%20-%20Compressed_27.5.pdf#page=13), these are intended to be an informal, direct line of communication between the School's Deans and graduate students, to help the Deans better inform their actions and better understand the needs of their School's students.
 	- HASS
 		- _Participants_: [Dean of HASS](https://news.rpi.edu/2024/07/29/william-gibbons-leading-music-scholar-joins-rpi-dean-humanities-arts-and-social-sciences), representatives of all grad organizations in HASS, and the Grad Council
 		- _Frequency, Duration_: 45min, monthly
@@ -43,7 +43,7 @@ See the [Council's Website](https://sites.google.com/view/rpistugov/graduate-cou
 
 
 ## Term Reports
-![Graduate Council 2023-24 Term Report](../_assets/Graduate%20Council%20-%20A/Graduate%20Council%202023-24%20Term%20Report%20-%20Compressed_27.5.pdf)
+![Graduate Council 2023-24 Term Report](../../_assets/Graduate%20Council%20-%20A/Graduate%20Council%202023-24%20Term%20Report%20-%20Compressed_27.5.pdf)
 
 
 ---
