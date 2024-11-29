@@ -1,4 +1,3 @@
-
 _Last Revision: November 26th, 2024_
 
 ---

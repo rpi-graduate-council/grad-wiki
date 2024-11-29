@@ -1,4 +1,4 @@
-_Last Revision: November 26, 2024_
+_Last Revision: November 29, 2024_
 
 ---
 ## Within Walking Distance
@@ -28,8 +28,8 @@ While in Downtown Troy, you may find these places that are more on the expensive
 
 ### Waterfront
 The local state parks a really well taken care of. You can swim in the lakes, they have artificial beaches, dressing-/rest-rooms, children playground, grill sites, and more. There is an entrance fee (per car), you can also get a [season pass](https://parks.ny.gov/admission/empire-passport/).
-* [Grafton Lake + State Park](https://parks.ny.gov/parks/graftonlakes) - About 24 minutes away, there is a ton of outdoor activities to do! Very popular, on hot summer days sometimes resembles a Florida beach during Spring Break.
-* [Cherry Plains Lake + State Park] - About 35 minutes away, it is in the middle of nowhere. It is smaller than Grafton Lake, and therefore less visited -- but just as nice. Good option if you want more quiet at the beach.  
+* [Grafton Lakes + State Park](https://parks.ny.gov/parks/graftonlakes) - About 24 minutes away, there is a ton of outdoor activities to do! Very popular, on hot summer days sometimes resembles a Florida beach during Spring Break.
+* [Cherry Plains Lake + State Park](https://parks.ny.gov/parks/173/) - About 35 minutes away, it is in the middle of nowhere. It is smaller than Grafton Lake, and therefore less visited -- but just as nice. Good option if you want more quiet at the beach.
 ### Winter Sports
 * If you are itching to ski or snowboard, [this website](https://www.epicpass.com/passes/northeast-value-pass.aspx) will take you to a season pass at a discounted price for college students with access to the nearby slopes!
 

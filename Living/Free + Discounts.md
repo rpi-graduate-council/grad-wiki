@@ -1,5 +1,4 @@
-
-_Last Revision: November 27, 2024_
+_Last Revision: November 29, 2024_
 
 ---
 
@@ -22,6 +21,7 @@ _Last Revision: November 27, 2024_
 ## More...
  - See [OGE website](https://graduate.rpi.edu/information-students) for a collection of additional discounts and services.
 -  [Downtown Troy Discounts](https://www.downtowntroyny.org/for-students)
+
 
 ---
 _Have knowledge/edits to share? See the [CONTRIBUTE](../../CONTRIBUTE.md) page._

@@ -1,3 +1,6 @@
+_Last Revision: November 29, 2024_
+
+---
 
 The center of student life is [The Rensselaer Union](https://union.rpi.edu/) residing within the Rensselaer Student Union building (conveniently located [at the corner of Sage Avenue and 15th street](https://www.google.com/maps/place/Rensselaer+Union/@42.7299076,-73.679241,17z/data=!3m1!4b1!4m6!3m5!1s0x89de0f9ff3c17227:0xd5d808a8e2c02a72!8m2!3d42.7299076!4d-73.6766661!16s%2Fg%2F11r922zdp?entry=ttu&g_ep=EgoyMDI0MDkyNS4wIKXMDSoASAFQAw%3D%3D). For all kinds of updates and information, see their [Instagram page](https://www.instagram.com/rpiunion/).
 
@@ -35,7 +38,7 @@ For other leisure options, check out e.g. the [RPI Playhouse](https://playhouse.
 
 The Union is home to the [Student Government](https://sites.google.com/view/rpistugov/), a well-established and thriving community that **represents the student body** on a variety of issues. 
 
-Especially the [GC Overview](Graduate%20Council/GC%20Overview.md) should be of interest to all Grad students, since they take care of the Graduate needs which are very specific. They open new positions throughout the year if you want to be an active voting member and support and help your community.
+Especially the [Graduate Council](Graduate%20Council/GC%20Overview.md) should be of interest to all Grad students, since they take care of the Graduate needs which are very specific. They open new positions throughout the year if you want to be an active voting member and support and help your community.
 
 
 ---
