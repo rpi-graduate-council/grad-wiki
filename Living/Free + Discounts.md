@@ -13,7 +13,7 @@ _Last Revision: November 27, 2024_
 -  [New York Times Online](https://library.rpi.edu/announcements/new-campus-wide-license-new-york-times-online) can be subscribed to for free, using your RPI email.
 
 ## For Families
-- OGE lists a [collection of resources for students with families](https://graduate.rpi.edu/information-students). Several of these are a result of [OGE working together with the Graduate Council](../_assets/Graduate%20Council%20-%20A/Graduate%20Council%202023-24%20Term%20Report%20-%20Compressed_27.5.pdf#page=14).
+- OGE lists a [collection of resources for students with families](https://graduate.rpi.edu/information-students). Several of these are a result of [OGE working together with the Graduate Council](../_assets/Graduate%20Council%20-%20A/2023-24%20-%20A/Graduate%20Council%202023-24%20Term%20Report%20-%20Compressed_27.5.pdf#page=14).
 
 ## Food/Finance Support
 - [RPI Student Food Pantry](https://success.studentlife.rpi.edu/current-students/connect-your-class-dean/rpi-student-food-pantry) offers free food/supplies. For additional food pantries in Troy area, see [Local Food Pantries](../Living/Local%20Food%20Pantries.md) page.
