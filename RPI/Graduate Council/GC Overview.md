@@ -25,11 +25,11 @@ See the [Council's Website](https://sites.google.com/view/rpistugov/graduate-cou
 | **Open Conversation w/ President, Provost, Dean of Grad Education** | Entire grad community                              | once per semester, 2 hours | Open forum for everyone to join. [Initiated by GC in Dec 2023](../../_assets/Graduate%20Council%20-%20A/Graduate%20Council%202023-24%20Term%20Report%20-%20Compressed_27.5.pdf#page=17) |
 
 ###  School Graduate Boards
-[Initiated by GC in early 2024](../../_assets/Graduate%20Council%20-%20A/Graduate%20Council%202023-24%20Term%20Report%20-%20Compressed_27.5.pdf#page=13), these intend to be direct , informal line of communication between the School Deans and their graduate students. These are currently in the forming stage.
+[Initiated by GC in early 2024](../../_assets/Graduate%20Council%20-%20A/Graduate%20Council%202023-24%20Term%20Report%20-%20Compressed_27.5.pdf#page=13), these intend to be direct, informal line of communication between the School Deans and their graduate students. These are currently in the forming stage.
 
 | **Meeting**             | **Participants**                                                                                                                                                     | **Frequency, Duration** | **Comments**                    |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------------- |
-| **HASS Graduate Board** | [Dean of HASS](https://news.rpi.edu/2024/07/29/william-gibbons-leading-music-scholar-joins-rpi-dean-humanities-arts-and-social-sciences), HASS Grad Org Reps, GC Rep | Monthly, 45 mins        | Inaugural meeting on 10/18/2024 |
+| **HASS Graduate Board** | [Dean of HASS](https://news.rpi.edu/2024/07/29/william-gibbons-leading-music-scholar-joins-rpi-dean-humanities-arts-and-social-sciences), HASS Grad Org Reps, GC Rep | monthly, 45 mins        | Inaugural meeting on 10/18/2024 |
 
 ## Term Reports
 ![Graduate Council 2023-24 Term Report](../../_assets/Graduate%20Council%20-%20A/Graduate%20Council%202023-24%20Term%20Report%20-%20Compressed_27.5.pdf)
