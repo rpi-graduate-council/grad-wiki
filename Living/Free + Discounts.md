@@ -22,6 +22,20 @@ _Last Revision: November 29, 2024_
  - See [OGE website](https://graduate.rpi.edu/information-students) for a collection of additional discounts and services.
 -  [Downtown Troy Discounts](https://www.downtowntroyny.org/for-students)
 
+## Bicycle
+### [Troy Bike Rescue](https://troybikerescue.info/)
+... is a great place to get cheap used bikes, or fix your broken one for free. It has two outlets:
+- **Shop** in Downtown Troy, used primarily for selling used bikes.
+- **Workshop** in North Troy, for bike repairs. You need to [schedule a repair appointment](https://calendly.com/troybikerescue) on their website.
+The repairs are done free of charge, if they have the used parts. You can donate money You woulMany people donate their old bikes to them, which are stored there in their workshop. You can ask if it is possible for you to take one home, if you repair it yourself with their help. Here also their [Linktree](https://linktr.ee/troy_bike_rescue).
+
+### [RPI Cycling Club](https://cycling.union.rpi.edu/)
+...is a stundet-run bike club @RPI, which has an [Open Bike Shop](https://cycling.union.rpi.edu/?page_id=74),to help out with bike repairs.
+
+## Car
+### [Rensselaer Student Auto Shop](https://union.rpi.edu/club-directory/rensselaer-student-auto-shop/)
+... is a student-run car shop @RPI. They do not do repairs themselves, but have many car tools, and even a lift. You can use these, or book the lift for a small fee, if you know your way around a car.
+
 
 ---
 _Have knowledge/edits to share? See the [CONTRIBUTE](../../CONTRIBUTE.md) page._
