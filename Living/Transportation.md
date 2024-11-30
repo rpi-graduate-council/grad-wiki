@@ -2,6 +2,9 @@ _Last Revision: November 29, 2024_
 
 ---
 
+## PubSafe Safety Escort
+[This service is available around the clock](https://publicsafety.rpi.edu/personal-safety/transportation), by RPI Public Safety. If you work late at night and want to get home safely, or are generally worried for your safety, you can 518-276-6656, for an officer to _"..either provide transportation or walk you safely to your destination. A point-to-point safety escort is also available within a five-minute radius of the Rensselaer campus."_
+
 ## Bus
 ### RPI Shuttle
 RPI offers a [free shuttle](https://info.rpi.edu/rensselaer-shuttle) to its students to provide safe transportation around the campus. Note: Student ID will be required to board the shuttle

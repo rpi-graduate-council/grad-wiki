@@ -1,8 +1,9 @@
 _Last Revision: November 29, 2024_
 
 ---
-
+RPI%20PubSafe%20Safety%20Escort
 ## Transportation
+- ![RPI PubSafe 24/7 Safety Escort](Transportation.md#PubSafe%20Safety%20Escort)
 - ![Transportation](Transportation.md##RPI%20Shuttle)
 - ![Transportation](Transportation.md###CDTA%20-%20Busses)
 - ![Transportation](Transportation.md###CDPHP%20_Cycle!_)
@@ -30,7 +31,7 @@ _Last Revision: November 29, 2024_
 The repairs are done free of charge, if they have the used parts. You can donate money You woulMany people donate their old bikes to them, which are stored there in their workshop. You can ask if it is possible for you to take one home, if you repair it yourself with their help. Here also their [Linktree](https://linktr.ee/troy_bike_rescue).
 
 ### [RPI Cycling Club](https://cycling.union.rpi.edu/)
-...is a stundet-run bike club @RPI, which has an [Open Bike Shop](https://cycling.union.rpi.edu/?page_id=74),to help out with bike repairs.
+...is a stundet-run bike club @RPI, which has an [Open Bike Shop](https://cycling.union.rpi.edu/?page_id=74),to help out with bike repairs. Here is the [link to their Discord](https://discord.com/invite/KXFvtd8kWH).
 
 ## Car
 ### [Rensselaer Student Auto Shop](https://union.rpi.edu/club-directory/rensselaer-student-auto-shop/)
