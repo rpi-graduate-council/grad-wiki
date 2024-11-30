@@ -17,12 +17,14 @@ Generally, all experience we accumulate during our stay at RPI leaves with us wh
 ### Back-End
 The actual Wiki database containing meta-data and all of history lives in this [GitHub Repository](https://github.com/rpi-graduate-council/grad-wiki/). 
 
-You can download it as a zip file, if you prefer to have it on your machine. Written in [MarkDown](https://en.wikipedia.org/wiki/markdown), the _.md_ files can be opened with any plain text editor. For complete functionality, use the [Obsidian](https://obsidian.md/) note-taking application. In its folder structure, the folder
+**How to use**: You can download the entire Wiki as a zip file, if you prefer to have it on your machine. Written in [MarkDown](https://en.wikipedia.org/wiki/markdown), the _.md_ files can be opened with any plain text editor. For complete functionality, use the [Obsidian](https://obsidian.md/) note-taking application. In its folder structure, the folder
 - _\_assets_ contains all supplementary materials (pdfs, images, etc.), embedded in the Wiki's pages;
 - _.obsidian_ contains Obsidian-related configuration files.
 
 ### Front-End
 We use this publicly-facing [Webpage](https://publish.obsidian.md/rpi-grad-wiki) to display the Wiki's content.
+
+**How to browse**: Use the navigation/search pane on the left. On your phone, press the three lines on the top left to bring it up.
 
 ---
 ## This Wiki is Built By
