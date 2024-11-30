@@ -3,8 +3,15 @@ _Last Revision: November 20, 2024_
 ---
 
 RPI students have [their own Student Government](https://sites.google.com/view/rpistugov/home), and with that formal representation. The **RPI Graduate Council (GC)** is its graduate branch, and consists of 15 graduate students elected by the entire RPI graduate student body. The Council's purpose is to represent graduate students in university affairs and advocate for their needs.
+See the [Council's Website](https://sites.google.com/view/rpistugov/graduate-council) for news, upcoming events, as well as links to all [ByLaws, Rules, and Regulations of RPI Stud Gov't.](https://sites.google.com/view/rpistugov/record)
 
-- See the [Council's Website](https://sites.google.com/view/rpistugov/graduate-council) for news, upcoming events, as well as links to all [ByLaws, Rules, and Regulations of RPI Stud Gov't.](https://sites.google.com/view/rpistugov/record)
+## Structure
+
+15 Voting Members
+- 7 Graduate Representatives
+- 7 Graduate Senators
+- 1 [Black Student Graduate Association](https://bgsa.rpi.edu/about) Representative
+
 ## Communication Channels with the Institute
 ### GC specific
 
