@@ -18,7 +18,6 @@ The [Union Constitution](https://rpi.app.box.com/v/rpisg/file/1689369858823) doc
 
 ### Executive Board
 - **What**: A.k.a. _E-Board_; it oversees Union's clubs/activities and finances, which include a yearly budget of a several million USD.
-- **Seats**: The Graduate Council appoints one seat, the GC E-Board Representative.
 - **Lead by**: The President of the Union, wearing a gender-neutral round top hat.
 - [**Website**](https://sites.google.com/view/rpistugov/executive-board) 
 
@@ -26,7 +25,7 @@ The [Union Constitution](https://rpi.app.box.com/v/rpisg/file/1689369858823) doc
 - **What**: Us. A.k.a _GC_; we are the "graduate legislative branch". Our purpose is graduate advocacy and programming. 
 - **Seats**: 15 total, [elected](Stud%20Gov't%20101.md#Elections) by the RPI Graduate student body.
 - **Lead by**: Graduate Council President, not wearing a hat.
-- [**Website**](Graduate%20Council/GC%20Overview.md). See also the Wiki's [Grad Council](Graduate%20Council/GC%20Overview.md) page for a detailed account.
+- [**Website**](https://sites.google.com/view/rpistugov/graduate-council). See also the Wiki's [Grad Council](Graduate%20Council/GC%20Overview.md) page for a detailed account.
 
 ### Undergraduate Council
 - **What**: A.k.a. _UC_. Same name as Graduate Council, different structure/emphases. It is comprised of 4 _Class Councils_ (Freshman, Sophomore, Junior, Senior), with each having their Presidents. Its focus is primarily programming (=social events), as the [Student Senate](Stud%20Gov't%20101.md#Student%20Senate) does most of the undergraduate legislative work.
