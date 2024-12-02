@@ -18,7 +18,7 @@ Of course, there are **dining options** **outside of the Union building**, both 
 
 - [The list of cafes on campus](https://rpi.sodexomyway.com/en-us/categories/restaurants-&-cafes). You can quickly check the hours and info here. The cafes offer some small meals as well.
 - [On-campus dining](https://rpi.sodexomyway.com/en-us/categories/resident-dining). other on-campus foods. Here, find the [meal plan information](https://rpi.sodexomyway.com/en-us/meal-plan/meal-plan-options).
-- For off-campus options, see [Drink and Dine](../Leisure/Drink%20and%20Dine.md).
+- For off-campus options, see [Drink & Dine](../Leisure/Drink%20&%20Dine.md).
 
 Bon appétit!
 

@@ -3,16 +3,18 @@ _Last Revision: November 26th, 2024_
 ---
 ### Cafés in Troy Area
 - [Bard n Baker](https://www.bardandbaker.com/) – a board game café in downtown Troy! Pay a small amount (discounts for students) and can play board games for hours with cozy drinks and snacks. Great to go with friends and choose from several book shelves of games.
-- [Little Pecks](https://www.clarkhousehospitality.com/littlepecks) – cute Café with delicious coffee and other drinks. Great for meeting friends or studying with an indoor garden in the back. In the center of downtown Troy.
+- [Little Pecks](https://www.clarkhousehospitality.com/littlepecks) – cute café with delicious coffee and other drinks. Great for meeting friends or studying with an indoor garden in the back. In the center of downtown Troy.
 - [Stacks Espresso Bar](https://www.stacksespresso.com/) – very spacious Café in downtown Troy with the best vibes for a day of studying. Really good coffee, tea & food. Hosts many events during the evenings too!
 - [Jacob Alejandro](https://www.jacobalejandro.com/) – another fan favorite for coffee and drinks; makes an appearance at the outdoor Farmer’s market too.
+- [Cafe Euphoria](https://www.cafeeuphoria.org/) – a gender inclusive café downtown with a variety of food options, including delicious vegan-friendly meals. Also features as a thrift store and a community hub that hosts wonderful events.
     
 ### Burger Places / American Food in Troy Area
 - [Dinosaur Bar B Que](https://dinosaurbarbque.com/locations/troy) – a staple in Troy for barbeque and burgers right by Hudson River
 - [Nighthawks](https://www.nighthawkstroy.com/fullmenu) – rotating brunch & dinner menus but they always have tasty burgers in downtown Troy
 - [Bootleggers](https://bootleggerstroy.com/) – pub food & bar in downtown Troy with great outdoor seating
 - [Emry’s Garden](https://emrysgarden.com/) – also called Troy Beer Garden; a dinner place & bar with a very nice green/plant interior
-- [Brown’s](https://www.brownsbrewing.com/) - hub for burgers & beer (they brew their own) in downtown Troy
+- [Brown’s](https://www.brownsbrewing.com/) – hub for burgers & beer (they brew their own) in downtown Troy
+- [Herbie's Burgers](https://www.herbiesburgers.com/) – a small local burger restaurant chain including all-vegan options for all items.
     
 ### Mexican Cuisine in Troy Area
 - [La Capital](https://www.lacapitaltaquerias.com/troylocation) – delicious authentic Mexican food in downtown Troy with cute outdoor seating; also is always at the Farmer’s market!
@@ -28,11 +30,11 @@ _Last Revision: November 26th, 2024_
 - [Unagi Sushi –](https://unagitroyny.com/) delicious sushi in downtown Troy
 - [Bespoki Bowl](https://bespokibowl.com/) – tasty poké bowl place in downtown Troy
 - [Wasabi](https://www.wasabialbanyny.com/) – all-you-can-eat-sushi place in Albany! Fun to go to with friends; can also order without doing all-you-can-eat. If it’s your birthday, you eat for free!
-- [River St. Poke Bar](https://riverstpokebar.com/) - another great option for poke in downtown Troy!
+- [River St. Poke Bar](https://riverstpokebar.com/) – another great option for poke in downtown Troy!
 
 ### Dessert
-- [Dutch Udder](https://www.dutchudder518.com/) - a great ice cream place in downtown Troy on the corner of River Street  and Franklin Street. They change the flavor selection a few times a year so that there is always something new to try!
-- [The Cookie Factory](https://thecookiefactoryny.com/) - a small chain with stores located in Troy and Clifton Park. There's a large assortment of cookies to satisfy any type of craving!
+- [Dutch Udder](https://www.dutchudder518.com/) – a great ice cream place in downtown Troy on the corner of River Street  and Franklin Street. They change the flavor selection a few times a year so that there is always something new to try!
+- [The Cookie Factory](https://thecookiefactoryny.com/) – a small chain with stores located in Troy and Clifton Park. There's a large assortment of cookies to satisfy any type of craving!
 
 ### Map
 
