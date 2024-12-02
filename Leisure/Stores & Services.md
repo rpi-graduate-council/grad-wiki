@@ -1,7 +1,11 @@
 _Last Revision: December 1, 2024_
 
-# Books & Antiques
+---
+# Ethnic Grocery Stores
+* [Aladdin Halal](https://www.aladdinmarketandrestaurant.com/) - a Middle Eastern and Southern Asian grocery store, halal meat department, and Indian-Pakistani restaurant with locations in [Latham](https://www.google.com/maps/place/Aladdin+Halal+Market/@42.74025,-73.6992374,4430m/data=!3m1!1e3!4m6!3m5!1s0x89de0d12e7cbe563:0x64f21299a7dbfcae!8m2!3d42.7382008!4d-73.7625002!16s%2Fg%2F11lg2z47jc?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D) and [Albany](https://www.google.com/maps/place/Aladdin+Halal+Albany/@42.6647646,-73.8103542,4435m/data=!3m1!1e3!4m6!3m5!1s0x89de0a4a907f6757:0x53c01da369c68023!8m2!3d42.6647646!4d-73.7722454!16s%2Fg%2F11gdc2_6yn?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D)!
+* [Farmer's India Market](http://indiamarket.co/) - a supermarket with halal meat and offer takeaway food in [Albany](https://www.google.com/maps/place/Farmer's+India+Market/@42.730363,-73.8517083,554m/data=!3m1!1e3!4m6!3m5!1s0x89de7380ea8cdb77:0x2868a6000d414b82!8m2!3d42.730363!4d-73.8491334!16s%2Fg%2F11pz165k_5?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D)!
 
+# Books & Antiques
  - [Market Block Books](https://www.bhny.com/) – a small and cute bookstore located on the corner of River Street and 3rd Street. With a substantial variety of genres ranging from Mystery to Cooking and staff recommendations, there is always something for everyone! It only sells new books.
  - [Yellow Lab Bookstore](https://www.yelp.com/biz/yellow-lab-vintage-and-books-troy) – an intellectual hub showcasing a bookstore, antique shop, located on Broadway and 2nd Street! It has an outstanding selection of Philosophy and Mathematics books and textbooks, as well as affordable fiction and poetry, including rare finds.
  - [Paper Moon](https://www.instagram.com/paper_moon_troy/?hl=en) – a small store downtown featuring art magazines and a selection of local publishers and artists. Also hosts fun art and music shows.
@@ -21,9 +25,6 @@ _Last Revision: December 1, 2024_
 ## Barbers
 * [Troy Grooming Company](https://www.yelp.com/biz/troy-grooming-troy-3) – Located at 205 River Street
 * [Fratelli Barber Shop](https://www.instagram.com/fratelli.barbershop/?utm_medium=copy_link) – Located at 172 River Street
-
----
-# Groceries
 
 
 ---
