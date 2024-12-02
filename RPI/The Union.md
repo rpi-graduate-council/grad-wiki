@@ -1,4 +1,4 @@
-_Last Revision: November 29, 2024_
+_Last Revision: December 1, 2024_
 
 ---
 
@@ -13,6 +13,7 @@ For the dining options & businesses in the **Union Building**, see:
 - [The list of restaurants in the Union](https://rpi.sodexomyway.com/en-us/categories/student-union-rathskeller). You can also find it [here](https://union.rpi.edu/business-and-service-directory/) together with references and contacts for other services, such as **legal counseling, the mail center, the games room or The Chapel + Cultural Center.**
 - [The RPI Clubhouse](https://www.instagram.com/rpiclubhousepub/). Look out for their various **events and promotions**.
 - [The RPI Bookstore](https://www.bkstr.com/rpistore/home). The bookstore offers **textbooks** (including rentals), **dorm and office essentials**, as well as a wide selection of **RPI merchandise**. You can shop in-person or online.
+- [The Mail Center](https://union.rpi.edu/business-and-service-directory/). Graduate students may use the mailing center located in the Union. However, students who do not live on campus cannot receive packages here.
 
 Of course, there are **dining options** **outside of the Union building**, both on-campus and off-campus:
 
