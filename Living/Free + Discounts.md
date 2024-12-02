@@ -11,6 +11,8 @@ RPI%20PubSafe%20Safety%20Escort
 ## Academic 
 - [Interlibrary Loans](https://library.rpi.edu/use-libraries/interlibrary-loan)can get you hard-to-find journals/articles, which RPI might not have subscribed to. In the event of this happening, you can go to on the library website and request your specific article of interest!
 -  [New York Times Online](https://library.rpi.edu/announcements/new-campus-wide-license-new-york-times-online) can be subscribed to for free, using your RPI email.
+- [ Free Software Provided by RPI](https://itssc.rpi.edu/hc/en-us/articles/360001212511-Available-Licensed-Software). If you have trouble regarding the installation of any of the listed software, refer to this [link](https://itssc.rpi.edu/hc/en-us/articles/360051046211-Software-Install-Tips).
+- [GitHub Student Developer Pack](https://education.github.com/pack) provides students with **free access** to development tools, cloud services, collaboration tools, learning resources, software, design tools, and domain/hosting services. It aims to support students in learning, collaborating, and building innovative projects. [Apply here](https://education.github.com/discount_requests/application).
 
 ## For Families
 - OGE lists a [collection of resources for students with families](https://graduate.rpi.edu/information-students). Several of these are a result of [OGE working together with the Graduate Council](../_assets/Graduate%20Council%20-%20A/2023-24%20-%20A/Graduate%20Council%202023-24%20Term%20Report%20-%20Compressed_27.5.pdf#page=14).
