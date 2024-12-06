@@ -40,6 +40,8 @@ The repairs are done free of charge, if they have the used parts. You can donate
 ### [Rensselaer Student Auto Shop](https://union.rpi.edu/club-directory/rensselaer-student-auto-shop/)
 ... is a student-run car shop @RPI. They do not do repairs themselves, but have many car tools, and even a lift. You can use these, or book the lift for a small fee, if you know your way around a car.
 
+![The Union](../RPI/The%20Union.md#%20Legal%20Services%20for%20Students)
+
 
 ---
 _Have knowledge/edits to share? See the [CONTRIBUTE](../CONTRIBUTE.md) page._

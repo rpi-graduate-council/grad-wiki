@@ -41,6 +41,14 @@ The Union is home to the [Student Government](https://sites.google.com/view/rpis
 
 Especially the [Graduate Council](Graduate%20Council/GC%20Overview.md) should be of interest to all Grad students, since they take care of the Graduate needs which are very specific. They open new positions throughout the year if you want to be an active voting member and support and help your community.
 
+## Services
+### Legal Services for Students
+Our Union has partnered with [HK&K Attorneys](https://www.hhk.com/albany/) to provide a set of free initial legal services for students, as well as additional discounts. Find the lawfirm's number under the [Union's Services Section](https://union.rpi.edu/business-and-service-directory/) and/or call the Union's Office for more info.
+
+## Web Links
+- [Union Website](https://union.rpi.edu/)
+- [Union Instagram](https://www.instagram.com/rpiunion/)
+
 
 ---
 _Have knowledge/edits to share? See the [CONTRIBUTE](../CONTRIBUTE.md) page._
