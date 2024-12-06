@@ -41,4 +41,4 @@ The repairs are done free of charge, if they have the used parts. You can donate
 
 
 ---
-_Have knowledge/edits to share? See the [CONTRIBUTE](../../CONTRIBUTE.md) page._
+_Have knowledge/edits to share? See the[CONTRIBUTE](../CONTRIBUTE.md) page._

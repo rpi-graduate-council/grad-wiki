@@ -2,9 +2,8 @@ _Last Revision: December 1, 2024_
 
 ---
 
-
 ![IMG_20230824_114320_380_mod02](../_assets/Union%20-%20building%20photo.jpeg)
-When people speak of the "Rensselaer Union", they may be referring to either the [student-run building](The%20Union.md) at the corner of of [Sage and 15th](https://www.google.com/maps/place/Rensselaer+Union/@42.7299076,-73.679241,17z/data=!3m1!4b1!4m6!3m5!1s0x89de0f9ff3c17227:0xd5d808a8e2c02a72!8m2!3d42.7299076!4d-73.6766661!16s%2Fg%2F11r922zdp?entry=ttu&g_ep=EgoyMDI0MDkyNS4wIKXMDSoASAFQAw%3D%3D), or the Student Government it houses. As the name suggests, **all of Stud Govt's voting members/leaders are RPI students.**
+When people speak of the "Rensselaer Union", they may be referring to either the [student-run building](The%20Union.md) at the corner of of [Sage and 15th](https://www.google.com/maps/place/Rensselaer+Union/@42.7299076,-73.679241,17z/data=!3m1!4b1!4m6!3m5!1s0x89de0f9ff3c17227:0xd5d808a8e2c02a72!8m2!3d42.7299076!4d-73.6766661!16s%2Fg%2F11r922zdp?entry=ttu&g_ep=EgoyMDI0MDkyNS4wIKXMDSoASAFQAw%3D%3D), or the Student Government it houses. As the name suggests, **all of Stud Govt's voting members/leaders are RPI students**, either elected or appointed by RPI students.
 
 The [Union Constitution](https://rpi.app.box.com/v/rpisg/file/1689369858823) document lays out the structure, below its...
 
@@ -47,4 +46,4 @@ A.k.a. the [_GM Week_](https://en.wikipedia.org/wiki/Grand_Marshal_(RPI)#GM_Week
 
 
 ---
-_Have knowledge/edits to share? See the [CONTRIBUTE](../../CONTRIBUTE.md) page._
+_Have knowledge/edits to share? See the [CONTRIBUTE](../CONTRIBUTE.md) page._

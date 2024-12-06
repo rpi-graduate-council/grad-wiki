@@ -59,4 +59,4 @@ A part of the Health Center is the [Counseling Center](https://studenthealth.rpi
 
 
 ---
-_Have knowledge/edits to share? See the [CONTRIBUTE](../../CONTRIBUTE.md) page._
+_Have knowledge/edits to share? See the [CONTRIBUTE](../CONTRIBUTE.md) page._

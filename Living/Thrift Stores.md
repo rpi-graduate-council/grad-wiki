@@ -20,4 +20,4 @@ Craigslist has a [map](https://albany.craigslist.org/search/gms#search=1~map~0~0
 
 
 ---
-_Have knowledge/edits to share? See the [CONTRIBUTE](../../CONTRIBUTE.md) page._
+_Have knowledge/edits to share? See the[CONTRIBUTE](../CONTRIBUTE.md) page._

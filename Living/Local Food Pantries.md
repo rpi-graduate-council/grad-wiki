@@ -83,4 +83,4 @@ _Open Monday to Friday from 8:30 AM - 4:30 PM. Pantry closed for lunch 12pm - 1p
 
 
 ---
-_Have knowledge/edits to share? See the [CONTRIBUTE](../../CONTRIBUTE.md) page._
+_Have knowledge/edits to share? See the[CONTRIBUTE](../CONTRIBUTE.md) page._

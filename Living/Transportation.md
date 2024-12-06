@@ -27,4 +27,4 @@ If you'd like to travel by train to NYC then you can use the [Albany-Rensselaer 
 
 
 ---
-_Have knowledge/edits to share? See the [CONTRIBUTE](../../CONTRIBUTE.md) page._
+_Have knowledge/edits to share? See the[CONTRIBUTE](../CONTRIBUTE.md) page._

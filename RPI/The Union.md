@@ -43,4 +43,4 @@ Especially the [Graduate Council](Graduate%20Council/GC%20Overview.md) should be
 
 
 ---
-_Have knowledge/edits to share? See the [CONTRIBUTE](../../CONTRIBUTE.md) page._
+_Have knowledge/edits to share? See the [CONTRIBUTE](../CONTRIBUTE.md) page._

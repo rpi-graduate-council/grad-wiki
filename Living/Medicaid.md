@@ -35,4 +35,4 @@ ATTENTION: You should annually renew your plan. Thus, schedule an appointment wi
 
 
 ---
-_Have knowledge/edits to share? See the [CONTRIBUTE](../../CONTRIBUTE.md) page._
+_Have knowledge/edits to share? See the[CONTRIBUTE](../CONTRIBUTE.md) page._
