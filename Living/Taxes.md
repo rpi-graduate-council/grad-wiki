@@ -27,4 +27,4 @@ IRS's [Volunteer Income Tax Assistance (VITA) program](https://www.irs.gov/indiv
 
 
 ---
-_Have knowledge/edits to share? See the[CONTRIBUTE](../CONTRIBUTE.md) page._
+_Have knowledge/edits to share? See the [CONTRIBUTE](../CONTRIBUTE.md) page._

@@ -23,8 +23,8 @@ The [Capital District Transportation Authority (CDTA)](https://www.cdta.org/rout
 
 ## Train
 ### Amtrak
-If you'd like to travel by train to NYC then you can use the [Albany-Rensselaer Amtrak station](https://www.amtrak.com/stations/alb).
+If you'd like to travel by train to NYC then you can use the [Albany-Rensselaer Amtrak station](https://www.amtrak.com/stations/alb). They offer a [15% Student Discount](https://www.amtrak.com/student-discounts), if booked one in advance!
 
 
 ---
-_Have knowledge/edits to share? See the[CONTRIBUTE](../CONTRIBUTE.md) page._
+_Have knowledge/edits to share? See the [CONTRIBUTE](../CONTRIBUTE.md) page._

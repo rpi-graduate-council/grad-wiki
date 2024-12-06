@@ -14,4 +14,4 @@ From the Pantry's organizer, Denise Dunham:
 ANYTIME IS A GOOD TIME TO VOLUNTEER! For more information on how you can help at Mt. Ida Food Pantry, please message Denise at (518) 603-3873.
 
 ---
-_Have knowledge/edits to share? See the[CONTRIBUTE](../CONTRIBUTE.md) page._
+_Have knowledge/edits to share? See the [CONTRIBUTE](../CONTRIBUTE.md) page._

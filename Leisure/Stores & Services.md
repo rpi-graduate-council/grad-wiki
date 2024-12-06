@@ -28,4 +28,4 @@ _Last Revision: December 1, 2024_
 
 
 ---
-_Have knowledge/edits to share? See the[CONTRIBUTE](../CONTRIBUTE.md) page._
+_Have knowledge/edits to share? See the [CONTRIBUTE](../CONTRIBUTE.md) page._
