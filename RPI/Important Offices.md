@@ -19,6 +19,7 @@ Here's a roadmap of some RPI offices that can help with stuff.
 
  The [Graduate Council](Graduate%20Council/GC%20Overview.md) has the following [communication channels](Graduate%20Council/GC%20Overview.md##Communication%20channels%20with%20the%20Institute) with the Institute.
 
+>Colleen Smith runs the [RPI Grad Experience Discord Server](https://discord.gg/sjDMr8cz), which has lots ...and lots of useful information, and answers to many questions. Highly recommend to join it.
 
 ## Office of Graduate Education
 
