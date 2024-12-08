@@ -45,6 +45,9 @@ Especially the [Graduate Council](Graduate%20Council/GC%20Overview.md) should be
 ### Legal Services for Students
 Our Union has partnered with [HK&K Attorneys](https://www.hhk.com/albany/) to provide a set of free initial legal services for students, as well as additional discounts. Find the lawfirm's number under the [Union's Services Section](https://union.rpi.edu/business-and-service-directory/) and/or call the Union's Office for more info.
 
+## History
+Cait Bennett, the 156th Grand Marshal, just published the book [Roots of Rensselaer: A History of Our Union](https://www.rensselaerunionhistory.com/), for the celebration of [RPI's bicentennial](https://www.rpi.edu/bicentennial). This is an unfiltered account , based on thorough research of first-hand sources, e.g. Rensselaer Library archives. Highly recommended! 
+
 ## Web Links
 - [Union Website](https://union.rpi.edu/)
 - [Union Instagram](https://www.instagram.com/rpiunion/)
