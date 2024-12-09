@@ -1,9 +1,18 @@
-_Last Revision: December 1, 2024_
+_Last Revision: December 8, 2024_
 
 ---
+# Local Grocery Stores
+- [Hannaford Supermarket](https://maps.app.goo.gl/6oydRTLBx34Fn41p6) - your most standard American grocery store, good priced meat
+- [ALDI](https://maps.app.goo.gl/LyqxMyCde2xYur4m9) - cheapest grocery in the area, also has some German products and really good sweets
+- [Walmart Supercenter](https://maps.app.goo.gl/LZkatCDdboiEW7vV9) - a decent selection of groceries there, and good for buying things for daily neccessities. 
+- [Market 32](https://maps.app.goo.gl/rqSnVqYr46eByi6GA) - more on the expensive side but has nice groceries.
+
+
 # Ethnic Grocery Stores
-* [Aladdin Halal](https://www.aladdinmarketandrestaurant.com/) - a Middle Eastern and Southern Asian grocery store, halal meat department, and Indian-Pakistani restaurant with locations in [Latham](https://www.google.com/maps/place/Aladdin+Halal+Market/@42.74025,-73.6992374,4430m/data=!3m1!1e3!4m6!3m5!1s0x89de0d12e7cbe563:0x64f21299a7dbfcae!8m2!3d42.7382008!4d-73.7625002!16s%2Fg%2F11lg2z47jc?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D) and [Albany](https://www.google.com/maps/place/Aladdin+Halal+Albany/@42.6647646,-73.8103542,4435m/data=!3m1!1e3!4m6!3m5!1s0x89de0a4a907f6757:0x53c01da369c68023!8m2!3d42.6647646!4d-73.7722454!16s%2Fg%2F11gdc2_6yn?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D)!
-* [Farmer's India Market](http://indiamarket.co/) - a supermarket with halal meat and offer takeaway food in [Albany](https://www.google.com/maps/place/Farmer's+India+Market/@42.730363,-73.8517083,554m/data=!3m1!1e3!4m6!3m5!1s0x89de7380ea8cdb77:0x2868a6000d414b82!8m2!3d42.730363!4d-73.8491334!16s%2Fg%2F11pz165k_5?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D)!
+- [Aladdin Halal](https://www.aladdinmarketandrestaurant.com/) - a Middle Eastern and Southern Asian grocery store, halal meat department, and Indian-Pakistani restaurant with locations in [Latham](https://www.google.com/maps/place/Aladdin+Halal+Market/@42.74025,-73.6992374,4430m/data=!3m1!1e3!4m6!3m5!1s0x89de0d12e7cbe563:0x64f21299a7dbfcae!8m2!3d42.7382008!4d-73.7625002!16s%2Fg%2F11lg2z47jc?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D) and [Albany](https://www.google.com/maps/place/Aladdin+Halal+Albany/@42.6647646,-73.8103542,4435m/data=!3m1!1e3!4m6!3m5!1s0x89de0a4a907f6757:0x53c01da369c68023!8m2!3d42.6647646!4d-73.7722454!16s%2Fg%2F11gdc2_6yn?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D)!
+- [Farmer's India Market](http://indiamarket.co/) - a supermarket with halal meat and offer takeaway food in [Albany](https://www.google.com/maps/place/Farmer's+India+Market/@42.730363,-73.8517083,554m/data=!3m1!1e3!4m6!3m5!1s0x89de7380ea8cdb77:0x2868a6000d414b82!8m2!3d42.730363!4d-73.8491334!16s%2Fg%2F11pz165k_5?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D)!
+- [Asian Super Market 家家乐]() - A primarily chinese supermarket in [Albany](https://maps.app.goo.gl/Csbno2kYLrrqfpf47), 15 minutes car ride from campus. They have fresh vegetables, fruit, meat, baked goods, cooked meats, and all the other things you need to cook a chinese meal, they also have some korean and japanese things. 
+- [New Asian Food Market 东方超市](http://newasianfoodmarket.com) - another chinese market in Albany, very close to Asian Super Market, they have more instant foods and fresh vegetables. 
 
 # Books & Antiques
  - [Market Block Books](https://www.bhny.com/) – a small and cute bookstore located on the corner of River Street and 3rd Street. With a substantial variety of genres ranging from Mystery to Cooking and staff recommendations, there is always something for everyone! It only sells new books.
