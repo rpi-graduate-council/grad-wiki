@@ -1,3 +1,7 @@
+_Last Revision: December 09, 2024_
+
+---
+
 ## Rights & Responsibilities
 
 General RPI student policies are covered by the [Rensselaer Handbook of Student Rights and Responsibilities](https://rpi.box.com/s/p1b39vybm914b5cao4csrgl84bfrrh2l), which includes topics as peculiar as "Exotic Dancers" -- a relic from the past. Any changes to it have to be approved by the students, via the [Student Senate](Stud%20Gov't%20101.md#Student%20Senate).
@@ -7,7 +11,7 @@ General RPI student policies are covered by the [Rensselaer Handbook of Student 
 ## Communication
 ...is key to your success in grad school.
 
-Our advisors help and guide us to become independent researchers, able to function in an academic community. As our [Provost](Important%20Offices.md#Important%20People%20on%20Campus) stressed at the Grad Council's first Open Conversation, **constructive, friendly disagreement** with them should be an essential part of our development.
+Our advisors help and guide us to become independent researchers, able to function in an academic community. As our [Provost](Important%20Offices.md#Important%20People%20on%20Campus) stressed at the Grad Council's first Open Conversation, **constructive, friendly disagreement** should be an essential part of our development.
 
 ### Follow-ups
 At RPI, we have people from all over the globe with highly diverse backgrounds -- misunderstandings happen. To minimize these, it is common after a meeting to share a summary with those present, via email. In some cultures this may be viewed as rude/distrustful. Not at RPI! **Here, follow-ups are a welcomed standard.** All of us learn sooner or later how valuable these are.

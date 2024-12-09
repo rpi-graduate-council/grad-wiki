@@ -20,7 +20,7 @@ For quick a quick lookup/browse, best to use this publicly-facing [Website](http
 **How-to**: On desktop/laptop devices, use the navigation+search pane on the left. On mobile device, press the three lines on the top left corner to bring up navigation.
 
 ### Back-End
-Open knowledge should not be bound to a proprietary platform. 
+Open knowledge should not be grounded in a proprietary structure.
 The actual Wiki database containing meta-data and all of history lives in this public [GitHub Repository](https://github.com/rpi-graduate-council/grad-wiki/). 
 
 **How-to**: You can download the entire Wiki as a zip file, if you prefer to have it on your machine. Written in [MarkDown](https://en.wikipedia.org/wiki/markdown), the _.md_ files can be opened with any plain text editor. For complete functionality, use the [Obsidian](https://obsidian.md/) note-taking application. In its folder structure, the folder
