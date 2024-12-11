@@ -22,6 +22,8 @@ We recommend starting with [Colleen Smith, or the Ombus](Important%20Offices.md#
 
 Should things become more serious, the OGE describes a formal [Complaint Policy](https://graduate.rpi.edu/forms-and-policies), which Colleen and the Ombuds can also advise you on.
 
+For mental health support, see RPI's [Counseling Center](Important%20Offices.md#Counceling%20Center).
+
 
 ---
 _Have knowledge/edits to share? See the [CONTRIBUTE](../CONTRIBUTE.md) page._
