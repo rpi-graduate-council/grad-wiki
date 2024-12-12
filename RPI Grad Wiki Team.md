@@ -13,7 +13,7 @@
 - **Inwon Kang** (Ph.D. student, Computer Science)
 
 ![The RPI Grad Wiki Team](_assets/rpi_grad-wiki_team_2024-12-06.jpg)
-***Left To Right**: Inwon Kang, Joseph Killian, Reno Malanga, Alexander "Sasha" Lutsevich, Gwendolyn Morgan, Jitka Kadlecikova*
+***Left To Right:*** *Inwon Kang, Joseph Killian, Reno Malanga, Alexander "Sasha" Lutsevich, Gwendolyn Morgan, Jitka Kadlecikova*
 
 ---
 # Contributors
