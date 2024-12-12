@@ -9,7 +9,7 @@ The power of the individual tools exponentially increases as you connect them wi
 
 # Text Formatting
 - [**Markdown**](https://www.markdownguide.org/basic-syntax/):  very easy to use plain-text cosmetic language.
-- [**Latex**]: De-facto standard for all academic publications. Solves a lot of Microsoft Word's problems while introducing new ones. Don't use for note-taking unless you hate yourself.
+- [**Latex**](https://www.latex-project.org/get/): De-facto standard for all academic publications. Solves a lot of Microsoft Word's problems while introducing new ones. Don't use for note-taking unless you hate yourself.
 
 
 # Tools
