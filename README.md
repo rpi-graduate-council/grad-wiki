@@ -1,7 +1,9 @@
 # "How to Not Screw up Grad School" - an (unofficial) RPI Grad Wiki
 
 ## DISCLAIMER
-This is an [RPI Graduate Council](RPI/Graduate%20Council/GC%20Overview.md) community-sourced project, by Grads for Grads, aimed to share the history and insights on how to navigate the world-renowned Rensselaer Polytechnic Institute, Troy, and beyond.
+This is an [RPI Graduate Council](RPI/Graduate%20Council/GC%20Overview.md) _community-driven_ project, by Grads for Grads, aimed to share the history and insights on how to navigate the world-renowned Rensselaer Polytechnic Institute, Troy, and beyond. 
+
+> _Community-driven_ as in: If you notice something is amiss, it means no one has added it yet. Feel free to be the first to to do so -- [see here](CONTRIBUTE.md)!
 
 We do our best to fact-check all entries, but to err is human. Thus, _all information provided and advice given in this Wiki comes without any warranty, whatsoever_. Please double-check before taking action.
 
