@@ -32,12 +32,12 @@ Both offer a variety of plugins that expand functionality, e.g linking with [Zot
 - [**LatTex Online Table Editor**](https://www.latex-tables.com/)
 
 ## Diagram/Drawing
-- [**Draw.io**](https://app.diagrams.net/): Online diagraming tool.
+- [**Draw.io**](https://app.diagrams.net/): Online diagramming tool.
 - [**Yed**](https://www.yworks.com/products/yed): Offline diagramming tool.
 - [**Excalidraw**](https://excalidraw.com/): Easy-to-use online whiteboard for quick free-hand doodling and diagramming. Can be shared with others to draw simultaneously on one board.
 
 ## Coding/Reproducibility
-- [**Nix(OS)**](https://nixos.org/): Linux OS, cross-platform package manager, and prog. lang. Grants you sci-fi - like powers of creating unbreakable, isolated, reproducible environments, capable of time-travel. Highly recommend if you enjoy pain (steep learning curve).
+- [**Nix(OS)**](https://nixos.org/): Linux OS, cross-platform package manager, and prog. lang. Grants you sci-fi-like powers of creating unbreakable, isolated, reproducible environments, capable of time-travel. Highly recommend if you enjoy pain (steep learning curve).
 	- Learning resources: - [Awesome Nix](https://github.com/nix-community/awesome-nix), [Vimjoyer - YouTube](https://www.youtube.com/@vimjoyer/videos), [LibrePhoenix - YouTube](https://www.youtube.com/@librephoenix)
 
 
