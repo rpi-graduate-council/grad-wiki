@@ -5,7 +5,7 @@ _Last Revision: December 12, 2024_
 _... more resources soon to be added from the [Graduate Council's](../RPI/Graduate%20Council/GC%20Overview.md) recently hosted Research Tools & Techniques event._
 
 # Disclaimer 
-The power of each of the individual tools exponentially increases as you connect them each other, creating a academic workflow.
+The power of the individual tools exponentially increases as you connect them with each other, creating an academic workflow.
 
 # Text Formatting
 - [**Markdown**](https://www.markdownguide.org/basic-syntax/):  very easy to use plain-text cosmetic language.
@@ -15,7 +15,7 @@ The power of each of the individual tools exponentially increases as you connect
 # Tools
 ## Literature Research/Management
 - [**Research Rabbit**](https://researchrabbitapp.com) : Free online service for literature research.
-- [**Zotero**](https://www.zotero.org/) : Use it. Quintessential for any academic. Your life will change. Anyone thinking differently does not know what they are talking about. Offline, Free, Open-Source
+- [**Zotero**](https://www.zotero.org/) : Use it. Quintessential for any academic. Your life will change. Anyone thinking differently does not know what they are talking about. Offline, Free, Open-Source.
 
 
 ## Note-Taking
