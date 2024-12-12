@@ -17,6 +17,7 @@ The power of the individual tools grows exponentially as you chain them into an 
 ## Literature Research/Management
 - [**Research Rabbit**](https://researchrabbitapp.com) : Free online service for literature research.
 - [**Zotero**](https://www.zotero.org/) : Use it. Quintessential for any academic. Your life will change. Anyone thinking differently does not know what they are talking about. Offline, Free, Open-Source.
+	- **Important**: *Add only papers you read/referenced into it. Otherwise, your library will look like a dumpster.*
 
 ## Note-Taking
 - [**Obsidian**](https://obsidian.md/) : Swiss army-knife for tool note-taking and knowledge-management. Uses [Markdown](Research%20Tools%20&%20Techniques.md#Text%20Formatting). Offline, Free, Proprietary.
