@@ -1,7 +1,7 @@
 _Last Revision: November 29, 2024_
 
 ---
-RPI%20PubSafe%20Safety%20Escort
+
 ## Transportation
 ### Ride
 - ![RPI PubSafe 24/7 Safety Escort](Transportation.md#PubSafe%20Safety%20Escort)
