@@ -28,6 +28,7 @@ Thank you for sharing your knowledge,
 | Milena Jonas                | Jade Franklin     |
 | Jitka Kadlecikova           | Gwendolyn Morgan  |
 | Mincong "Jerry" Huang       | Reno Malanga      |
+| Jianing Silven Chen         |                   |
 
 
 ---
