@@ -2,7 +2,7 @@ _Last Revision: December 12, 2024_
 
 ---
 
-_... more resources soon to be added from the [Graduate Council's](../RPI/Graduate%20Council/GC%20Overview.md) recently hosted Research Tools & Techniques Symposium._
+_... more resources soon to be added from the [Grad Council's](../RPI/Graduate%20Council/GC%20Overview.md) recently hosted Research Tools & Techniques Symposium._
 
 # Disclaimer 
 The power of the individual tools grows exponentially as you chain them into an academic workflow.
@@ -10,7 +10,7 @@ The power of the individual tools grows exponentially as you chain them into an 
 
 # Text Formatting
 - [**Markdown**](https://www.markdownguide.org/basic-syntax/):  very easy to use plain-text cosmetic language.
-- [**Latex**](https://www.latex-project.org/get/): De-facto standard for all academic publications. Solves a lot of Microsoft Word's problems while introducing new ones. Don't use for note-taking unless you hate yourself.
+- [**LaTeX**](https://www.latex-project.org/get/): De-facto standard for all academic publications. Solves a lot of Microsoft Word's problems while introducing new ones. Don't use for note-taking unless you hate yourself.
 
 
 # Tools
@@ -26,19 +26,19 @@ The power of the individual tools grows exponentially as you chain them into an 
 Both offer a variety of plugins that expand functionality, e.g linking with [Zotero](Research%20Tools%20&%20Techniques.md#Literature%20Research/Management).
 
 ## Writing
-- [**Zettlr**](https://www.zettlr.com/) : Write LaTex-looking academic documents without having to deal with LaTex. Can mix Markdown and LaTeX syntax. Works well with [Obsidian](Research%20Tools%20&%20Techniques.md#Note-Taking). Offline, Free, Open-Source.
+- [**Zettlr**](https://www.zettlr.com/) : Write LaTeX-looking academic documents without having to deal with LaTeX. Can mix Markdown and LaTeX syntax. Works well with [Obsidian](Research%20Tools%20&%20Techniques.md#Note-Taking). Offline, Free, Open-Source.
 - [**Overleaf**](https://www.overleaf.com/): Easy-to-use online-hosted writing tool for [LaTeX](Research%20Tools%20&%20Techniques.md#Writing%#Typesetting). Online, Freemium. Use if you love the cloud.
-- [**LaTex Online Equation Editor**](https://latexeditor.lagrida.com/)
-- [**LatTex Online Table Editor**](https://www.latex-tables.com/)
+- [**LaTeX Online Equation Editor**](https://latexeditor.lagrida.com/)
+- [**LaTeX Online Table Editor**](https://www.latex-tables.com/)
 
 ## Diagram/Drawing
 - [**Draw.io**](https://app.diagrams.net/): Online diagramming tool.
-- [**Yed**](https://www.yworks.com/products/yed): Offline diagramming tool.
+- [**yEd**](https://www.yworks.com/products/yed): Offline diagramming tool.
 - [**Excalidraw**](https://excalidraw.com/): Easy-to-use online whiteboard for quick free-hand doodling and diagramming. Can be shared with others to draw simultaneously on one board.
 
 ## Coding/Reproducibility
 - [**Nix(OS)**](https://nixos.org/): Linux OS, cross-platform package manager, and prog. lang. Grants you sci-fi-like powers of creating unbreakable, isolated, reproducible environments, capable of time-travel. Highly recommend if you enjoy pain (steep learning curve).
-	- Learning resources: - [Awesome Nix](https://github.com/nix-community/awesome-nix), [Vimjoyer - YouTube](https://www.youtube.com/@vimjoyer/videos), [LibrePhoenix - YouTube](https://www.youtube.com/@librephoenix)
+	- Learning resources: - [Awesome Nix](https://github.com/nix-community/awesome-nix), [Vimjoyer - YouTube](https://www.youtube.com/@vimjoyer/videos), [LibrePhoenix - YouTube](https://www.youtube.com/@librephoenix), [Will T - YouTube (NixOS overview)](https://www.youtube.com/watch?v=QKoQ1gKJY5A&list=PL-saUBvIJzOkjAw_vOac75v-x6EzNzZq-).
 
 
 ---
