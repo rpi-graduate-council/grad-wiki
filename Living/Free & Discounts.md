@@ -31,8 +31,9 @@ The repairs are done free of charge, if they have the used parts. You can donate
 - [ Free Software Provided by RPI](https://itssc.rpi.edu/hc/en-us/articles/360001212511-Available-Licensed-Software). If you have trouble regarding the installation of any of the listed software, refer to this [link](https://itssc.rpi.edu/hc/en-us/articles/360051046211-Software-Install-Tips).
 - [GitHub Student Developer Pack](https://education.github.com/pack) provides students with **free access** to development tools, cloud services, collaboration tools, learning resources, software, design tools, and domain/hosting services. It aims to support students in learning, collaborating, and building innovative projects. [Apply here](https://education.github.com/discount_requests/application).
 
-## Lawyer
-![The Union](../RPI/The%20Union.md#%20Legal%20Services%20for%20Students)
+## Legal
+- ![The Union](../RPI/The%20Union.md#%20Legal%20Services%20for%20Students)
+- ![The Union](../RPI/The%20Union.md#Notary)
 
 ## For Families
 - OGE lists a [collection of resources for students with families](https://graduate.rpi.edu/information-students). Several of these are a result of [OGE working together with the Graduate Council](../_assets/Graduate%20Council%20-%20A/2023-24%20-%20A/Graduate%20Council%202023-24%20Term%20Report%20-%20Compressed_27.5.pdf#page=14).
