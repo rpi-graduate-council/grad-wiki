@@ -7,5 +7,5 @@ Two lectures by a former director of [UChicago' Writing Program](https://writing
 - [Lecture 1](https://www.youtube.com/watch?v=vtIzMaLkCaM)
 - [Lecture 2](https://www.youtube.com/watch?v=aFwVf5a3pZM)
 
-[**Writing in the Sciences](https://online.stanford.edu/courses/som-y0010-writing-sciences): Free Online Stanford Course**
+**[Writing in the Sciences](https://online.stanford.edu/courses/som-y0010-writing-sciences): Free Online Stanford Course**
  Endorsed by the former RPI Dean of Graduate Education Stanley Dunn. The first half is on basic techniques, second half covers the more abstract concepts (e.g. proposal structure), has vids of interviews with journal editors.
