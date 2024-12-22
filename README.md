@@ -3,7 +3,7 @@
 ## DISCLAIMER
 
 #### Under Construction
-This is an _ongoing, community-driven_ [RPI Graduate Council](RPI/Graduate%20Council/GC%20Overview.md) project, by grads for grads, aimed to share history and insights on how to navigate the world-renowned Rensselaer Polytechnic Institute, Troy, and beyond. If you notice something is amiss, it means no one has added it yet. Feel free to be the first to to do so -- [see here](CONTRIBUTE.md)!
+This is an _ongoing, community-driven_ [RPI Graduate Council](RPI/Graduate%20Council/GC%20Overview.md) project, by grads for grads, aimed to share history and insights on how to navigate the world-renowned Rensselaer Polytechnic Institute, Troy, and beyond. If you notice something is amiss, it means no one has added it yet. Feel free to be the first to do so -- [see here](CONTRIBUTE.md)!
 #### Errare Humanum Est (lat.)
 We do our best to fact-check all entries, but to err is human. Thus, _all information provided and advice given in this Wiki comes without any warranty, whatsoever_. Please double-check before taking action.
 

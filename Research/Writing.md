@@ -1,3 +1,7 @@
+_Last Revision: December 19, 2024_
+
+---
+
 ... no shortcuts, unfortunately: experienced faculty keep on telling that the only way to get good at it is through regular + continuous practice -- even if you think your writing sucks. It gets more rewarding the more you do it.
 
 ## Resources
@@ -9,3 +13,7 @@ Two lectures by a former director of [UChicago' Writing Program](https://writing
 
 **[Writing in the Sciences](https://online.stanford.edu/courses/som-y0010-writing-sciences): Free Online Stanford Course**
  Endorsed by the former RPI Dean of Graduate Education Stanley Dunn. The first half is on basic techniques, second half covers the more abstract concepts (e.g. proposal structure), has vids of interviews with journal editors.
+
+
+---
+_Have knowledge/edits to share? See the [CONTRIBUTE](../CONTRIBUTE.md) page._
