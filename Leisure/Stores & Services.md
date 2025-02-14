@@ -7,7 +7,6 @@ _Last Revision: December 8, 2024_
 - [Walmart Supercenter](https://maps.app.goo.gl/LZkatCDdboiEW7vV9) - a decent selection of groceries there, and good for buying things for daily neccessities. 
 - [Market 32](https://maps.app.goo.gl/rqSnVqYr46eByi6GA) - more on the expensive side but has nice groceries.
 
-
 # Ethnic Grocery Stores
 - [Aladdin Halal](https://www.aladdinmarketandrestaurant.com/) - a Middle Eastern and Southern Asian grocery store, halal meat department, and Indian-Pakistani restaurant with locations in [Latham](https://www.google.com/maps/place/Aladdin+Halal+Market/@42.74025,-73.6992374,4430m/data=!3m1!1e3!4m6!3m5!1s0x89de0d12e7cbe563:0x64f21299a7dbfcae!8m2!3d42.7382008!4d-73.7625002!16s%2Fg%2F11lg2z47jc?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D) and [Albany](https://www.google.com/maps/place/Aladdin+Halal+Albany/@42.6647646,-73.8103542,4435m/data=!3m1!1e3!4m6!3m5!1s0x89de0a4a907f6757:0x53c01da369c68023!8m2!3d42.6647646!4d-73.7722454!16s%2Fg%2F11gdc2_6yn?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D)!
 - [Farmer's India Market](http://indiamarket.co/) - a supermarket with halal meat and offer takeaway food in [Albany](https://www.google.com/maps/place/Farmer's+India+Market/@42.730363,-73.8517083,554m/data=!3m1!1e3!4m6!3m5!1s0x89de7380ea8cdb77:0x2868a6000d414b82!8m2!3d42.730363!4d-73.8491334!16s%2Fg%2F11pz165k_5?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D)!
@@ -34,7 +33,6 @@ _Last Revision: December 8, 2024_
 ## Barbers
 * [Troy Grooming Company](https://www.yelp.com/biz/troy-grooming-troy-3) – Located at 205 River Street
 * [Fratelli Barber Shop](https://www.instagram.com/fratelli.barbershop/?utm_medium=copy_link) – Located at 172 River Street
-
 
 ---
 _Have knowledge/edits to share? See the [CONTRIBUTE](../CONTRIBUTE.md) page._

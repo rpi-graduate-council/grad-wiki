@@ -12,7 +12,8 @@ Fellowship stipends do not generally have tax taken out at the time of payment a
 RPI is required to withhold a s percentage in federal taxes and a percentage in state taxes from fellowship stipends, unless the student is eligible for exemption under a tax treaty.
 
 ## Graduate Student Assistantship Stipends
-For graduate student assistantship stipends (those appointed to and RA or TA, positions), taxes are withheld at the time of payment and the stipend amount is reported to the IRS by RPI. 
+For graduate student assistantship stipends (those appointed to and RA or TA, positions), taxes are withheld at the time of payment and the stipend amount is reported to the IRS by RPI.
+
 ## IRS
 The [Internal Revenue Service](https://www.irs.gov/) (IRS) The IRS mission is to provide America's taxpayers top quality service by helping them understand and meet their tax responsibilities and to enforce the law with integrity and fairness to all.
 #### IRS Statutory authority

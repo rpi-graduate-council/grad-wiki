@@ -24,6 +24,5 @@ Should things become more serious, the OGE describes a formal [Complaint Policy]
 
 For mental health support, see RPI's [Counseling Center](Important%20Offices.md#Counceling%20Center).
 
-
 ---
 _Have knowledge/edits to share? See the [CONTRIBUTE](../CONTRIBUTE.md) page._

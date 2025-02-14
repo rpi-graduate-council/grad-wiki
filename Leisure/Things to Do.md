@@ -31,6 +31,5 @@ The local state parks a really well taken care of. You can swim in the lakes, th
 ### Winter Sports
 * If you are itching to ski or snowboard, [this website](https://www.epicpass.com/passes/northeast-value-pass.aspx) will take you to a season pass at a discounted price for college students with access to the nearby slopes!
 
-
 ---
 _Have knowledge/edits to share? See the [CONTRIBUTE](../CONTRIBUTE.md) page._

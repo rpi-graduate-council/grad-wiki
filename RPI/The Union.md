@@ -57,6 +57,5 @@ Cait Bennett, the 156th Grand Marshal, just published the book [Roots of Renssel
 - [Union Staff Contacts](https://directory.rpi.edu/groups/3130)
 - [Union Instagram](https://www.instagram.com/rpiunion/)
 
-
 ---
 _Have knowledge/edits to share? See the [CONTRIBUTE](../CONTRIBUTE.md) page._

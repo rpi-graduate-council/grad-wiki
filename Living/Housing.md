@@ -12,6 +12,5 @@ In addition, you may find these other resources helpful for finding rentals or r
 - The [Rensselaer Polytechnic Institute (RPI) Off Campus Housing Facebook group](https://www.facebook.com/groups/274708556950238/) (public)
 - The [r/RPI Subreddit](https://www.reddit.com/r/RPI/) (public)
 
-
 ---
 _Have knowledge/edits to share? See the [CONTRIBUTE](../CONTRIBUTE.md) page._

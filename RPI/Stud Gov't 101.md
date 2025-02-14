@@ -44,6 +44,5 @@ A.k.a. the [_GM Week_](https://en.wikipedia.org/wiki/Grand_Marshal_(RPI)#GM_Week
 - Browse the [Stud Gov't Website](https://sites.google.com/view/rpistugov/home)
 - Join the [Stud Gov't Discord](https://discord.com/invite/zRPH2JMF6n)
 
-
 ---
 _Have knowledge/edits to share? See the [CONTRIBUTE](../CONTRIBUTE.md) page._
