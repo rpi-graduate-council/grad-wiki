@@ -1,4 +1,4 @@
-_Last Revision: December 12, 2024_
+_Last Revision: April 17th, 2025_
 
 ---
 
@@ -6,7 +6,6 @@ _... more resources soon to be added from the [Grad Council's](../RPI/Graduate%2
 
 # Disclaimer 
 The power of the individual tools grows exponentially as you chain them into an academic workflow.
-
 
 # Text Formatting
 - [**Markdown**](https://www.markdownguide.org/basic-syntax/):  very easy to use plain-text cosmetic language.
@@ -18,6 +17,8 @@ The power of the individual tools grows exponentially as you chain them into an 
 - [**Research Rabbit**](https://researchrabbitapp.com) : Free online service for literature research.
 - [**Zotero**](https://www.zotero.org/) : Use it. Quintessential for any academic. Your life will change. Anyone thinking differently does not know what they are talking about. Offline, Free, Open-Source.
 	- **Important**: *Add only papers you read/referenced into it. Otherwise, your library will look like a dumpster.*
+- [**Google Scholar**](https://scholar.google.com/) : The definitive H-index reference website.
+- [**DBLP**](https://dblp.org/) : CS and CS-tangential paper database, and the ultimate bibtex citation generator.
 
 ## Note-Taking
 - [**Obsidian**](https://obsidian.md/) : Swiss army-knife for tool note-taking and knowledge-management. Uses [Markdown](Research%20Tools%20&%20Techniques.md#Text%20Formatting). Offline, Free, Proprietary.
@@ -35,6 +36,7 @@ Both offer a variety of plugins that expand functionality, e.g linking with [Zot
 - [**Draw.io**](https://app.diagrams.net/): Online diagramming tool.
 - [**yEd**](https://www.yworks.com/products/yed): Offline diagramming tool.
 - [**Excalidraw**](https://excalidraw.com/): Easy-to-use online whiteboard for quick free-hand doodling and diagramming. Can be shared with others to draw simultaneously on one board.
+- [**Quiver**](https://q.uiver.app/): Visual editor for arrow diagrams generates TeX code and PNGs. Primarilly meant meant for creating commutative diagrams but offten able to be used in other more general situations where you need an arrow diagram. 
 
 ## Coding/Reproducibility
 - [**Nix(OS)**](https://nixos.org/): Linux OS, cross-platform package manager, and prog. lang. Grants you sci-fi-like powers of creating unbreakable, isolated, reproducible environments, capable of time-travel. Highly recommend if you enjoy pain (steep learning curve).
