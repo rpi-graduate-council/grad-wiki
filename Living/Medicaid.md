@@ -1,4 +1,4 @@
-_Last Revision: April 21st, 2024_
+_Last Revision: April 21, 2024_
 
 ---
 # About

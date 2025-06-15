@@ -1,4 +1,4 @@
-_Last Revision: April 9th, 2024_
+_Last Revision: April 9, 2024_
 
 ---
 ## *PLEASE READ FIRST*
@@ -68,7 +68,7 @@ Phone: (518) 273-8351
 
 _Provides a food pantry. Serves Central and South Troy for food. Rensselaer County for all other services. Documentation Required: Proof of income, proof of residency, utility bill with address. Must be on Food Stamps to receive food. Hours: 9:00am - 12:00pm; 1:00pm - 3:00pm. Please call, for information on the days of distribution._ 
 
-**Additional Note:** You get a good amount of food, but you can’t choose.  
+**Additional Note:** You get a good amount of food, but you can't choose.  
 
 
 ## Unity House Food Pantry

@@ -7,40 +7,40 @@ When people speak of the "Rensselaer Union", they may be referring to either the
 
 The [Union Constitution](https://rpi.app.box.com/v/rpisg/file/1689369858823) document lays out the structure, below its...
 
-## ...Stud Gov't Branches
+# ...Stud Gov't Branches
 
-### Student Senate
+## Student Senate
 - **What**: Main legislative branch (~ Parlament). Its weekly meetings are open to public (unless explicitly closed, to handle crises). All meeting discussions follow [Robert's Rules](https://en.wikipedia.org/wiki/Robert's_Rules_of_Order). 
 - **Seats**: 29 total, [elected](Stud%20Gov't%20101.md#Elections) by the RPI student body. 7 of the seats are allotted to the [Graduate Council](Graduate%20Council/GC%20Overview.md). 
 - **Lead by**: The [Grand Marshal](https://en.wikipedia.org/wiki/Grand_Marshal_(RPI)), wearing a gender-neutral, cylinder top hat.
 - [**Website**](https://sites.google.com/view/rpistugov/student-senate)
 
-### Executive Board
+## Executive Board
 - **What**: A.k.a. _E-Board_; it oversees Union's clubs/activities and finances, which include a yearly budget of a several million USD.
 - **Lead by**: The President of the Union, wearing a gender-neutral round top hat.
 - [**Website**](https://sites.google.com/view/rpistugov/executive-board) 
 
-### Graduate Council
+## Graduate Council
 - **What**: Us. A.k.a _GC_; we are the "graduate legislative branch". Our purpose is graduate advocacy and programming. 
 - **Seats**: 15 total, [elected](Stud%20Gov't%20101.md#Elections) by the RPI Graduate student body.
 - **Lead by**: Graduate Council President, not wearing a hat.
 - [**Website**](https://sites.google.com/view/rpistugov/graduate-council). See also the Wiki's [Grad Council](Graduate%20Council/GC%20Overview.md) page for a detailed account.
 
-### Undergraduate Council
+## Undergraduate Council
 - **What**: A.k.a. _UC_. Same name as Graduate Council, different structure/emphases. It is comprised of 4 _Class Councils_ (Freshman, Sophomore, Junior, Senior), with each having their Presidents. Its focus is primarily programming (=social events), as the [Student Senate](Stud%20Gov't%20101.md#Student%20Senate) does most of the undergraduate legislative work.
 - **Lead by**: Undergraduate Council President, not wearing a hat.
 - [**Website**](https://sites.google.com/view/rpistugov/undergraduate-council)
 
-### Judicial Board
+## Judicial Board
 - **What**: A.k.a _J-Board_; the "primary court of judgment" for cases regarding student rights and responsibilities.
 - **Seats**: 6 voting + 5 alternative, appointed by J-Board Chair, approved by Senate.
 - **Lead by**: J-Board Chair, not wearing a hat.
 - [**Website**](https://sites.google.com/view/rpistugov/judicial-board)
 
-## Elections
+# Elections
 A.k.a. the [_GM Week_](https://en.wikipedia.org/wiki/Grand_Marshal_(RPI)#GM_Week_celebrations), take place in March. This is the time people become desperate to get a "GM Week Mug" -- a reward for casting your elections vote. 
 
-## Hungry for more?
+# Hungry for more?
 - Browse the [Stud Gov't Website](https://sites.google.com/view/rpistugov/home)
 - Join the [Stud Gov't Discord](https://discord.com/invite/zRPH2JMF6n)
 

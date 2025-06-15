@@ -6,7 +6,7 @@ The center of student life is [The Rensselaer Union](https://union.rpi.edu/) res
 
 > The Union building provides a variety of **student services, food options**, as well **study rooms and gaming spaces** for both socializing and quiet work.
 
-## Dining & Businesses
+# Dining & Businesses
 
 For the dining options & businesses in the **Union Building**, see:
 
@@ -23,7 +23,7 @@ Of course, there are **dining options** **outside of the Union building**, both 
 
 Bon appétit!
 
-## Fitness & Leisure
+# Fitness & Leisure
 
 Keep an eye on a very extensive and constantly updated [list of events](https://union.rpi.edu/events/)! Very often accompanied by free food.
 
@@ -35,24 +35,24 @@ More on [student life](https://info.rpi.edu/student-life/) by the Union.
 
 For other leisure options, check out e.g. the [RPI Playhouse](https://playhouse.union.rpi.edu/).
 
-## Student Government
+# Student Government
 
 The Union is home to the [Student Government](https://sites.google.com/view/rpistugov/), a well-established and thriving community that **represents the student body** on a variety of issues. 
 
 Especially the [Graduate Council](Graduate%20Council/GC%20Overview.md) should be of interest to all Grad students, since they take care of the Graduate needs which are very specific. They open new positions throughout the year if you want to be an active voting member and support and help your community.
 
-## Services
-### Legal Services for Students
+# Services
+## Legal Services for Students
 Our Union has partnered with [HK&K Attorneys](https://www.hhk.com/albany/) to provide a set of free initial legal services for students, as well as additional discounts. Find the lawfirm's number under the [Union's Services Section](https://union.rpi.edu/business-and-service-directory/) and/or call the Union's Office for more info.
 
-### Notary
+## Notary
 You can get a Notary signature free-of-charge through the Union's office, with Martha McElligott -- you just need to schedule an appointment with her via [mcellm@rpi.edu](mailto:mcellm@rpi.edu) or 518-276-6505.
 The SEFCU Credit Union on the Union's first floor also offers Notary services. Theirs are paid.
 
-## History
+# History
 Cait Bennett, the 156th Grand Marshal, just published the book [Roots of Rensselaer: A History of Our Union](https://www.rensselaerunionhistory.com/), for the celebration of [RPI's bicentennial](https://www.rpi.edu/bicentennial). This is an unfiltered account, based on thorough research of first-hand sources, e.g. the Rensselaer Library Archives. Highly recommended!
 
-## Web Links
+# Web Links
 - [Union Website](https://union.rpi.edu/)
 - [Union Staff Contacts](https://directory.rpi.edu/groups/3130)
 - [Union Instagram](https://www.instagram.com/rpiunion/)
