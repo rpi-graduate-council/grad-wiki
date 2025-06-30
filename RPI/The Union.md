@@ -46,7 +46,7 @@ Especially the [Graduate Council](Graduate%20Council/GC%20Overview.md) should be
 Our Union has partnered with [HK&K Attorneys](https://www.hhk.com/albany/) to provide a set of free initial legal services for students, as well as additional discounts. Find the lawfirm's number under the [Union's Services Section](https://union.rpi.edu/business-and-service-directory/) and/or call the Union's Office for more info.
 
 ## Notary
-You can get a Notary signature free-of-charge through the Union's office, with Martha McElligott -- you just need to schedule an appointment with her via [mcellm@rpi.edu](mailto:mcellm@rpi.edu) or 518-276-6505.
+You can get a Notary signature free-of-charge through the Union's office, with Martha McElligott - you just need to schedule an appointment with her via [mcellm@rpi.edu](mailto:mcellm@rpi.edu) or 518-276-6505.
 The SEFCU Credit Union on the Union's first floor also offers Notary services. Theirs are paid.
 
 # History
